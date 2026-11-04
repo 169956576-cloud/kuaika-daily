@@ -53,8 +53,16 @@ try {
         $remoteUrl = (& $gitPath remote get-url origin).Trim()
         if ($remoteUrl -ne "https://github.com/$repository.git") { throw "Unexpected origin remote: $remoteUrl. Stopped before pushing." }
     } else {
-        & $ghPath repo create $repository --public --source $siteRoot --remote origin
-        if ($LASTEXITCODE -ne 0) { throw 'Could not create the public repository. Check whether it already exists and verify the network.' }
+        $repoPrivacy = (& $ghPath repo view $repository --json isPrivate --jq .isPrivate 2>$null)
+        $repoViewExit = $LASTEXITCODE
+        if ($repoViewExit -eq 0) {
+            if ($repoPrivacy.Trim() -ne 'false') { throw 'The target repository exists but is not public. Stopped before pushing.' }
+        } else {
+            & $ghPath repo create $repository --public
+            if ($LASTEXITCODE -ne 0) { throw 'Could not create the public repository. Check whether it already exists and verify the network.' }
+        }
+        & $gitPath remote add origin "https://github.com/$repository.git"
+        if ($LASTEXITCODE -ne 0) { throw 'Could not add the GitHub repository as origin.' }
     }
     & $gitPath push --set-upstream origin main
     if ($LASTEXITCODE -ne 0) { throw 'Push failed. The repository may exist; fix the network and retry git push.' }
