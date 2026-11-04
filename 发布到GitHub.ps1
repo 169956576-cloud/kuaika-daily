@@ -53,13 +53,27 @@ try {
         $remoteUrl = (& $gitPath remote get-url origin).Trim()
         if ($remoteUrl -ne "https://github.com/$repository.git") { throw "Unexpected origin remote: $remoteUrl. Stopped before pushing." }
     } else {
-        $repoPrivacy = (& $ghPath repo view $repository --json isPrivate --jq .isPrivate 2>$null)
-        $repoViewExit = $LASTEXITCODE
+        $oldPreference = $ErrorActionPreference
+        try {
+            $ErrorActionPreference = 'Continue'
+            $repoPrivacy = (& $ghPath repo view $repository --json isPrivate --jq .isPrivate 2>&1 | Out-String).Trim()
+            $repoViewExit = $LASTEXITCODE
+        } finally {
+            $ErrorActionPreference = $oldPreference
+        }
         if ($repoViewExit -eq 0) {
             if ($repoPrivacy.Trim() -ne 'false') { throw 'The target repository exists but is not public. Stopped before pushing.' }
         } else {
-            & $ghPath repo create $repository --public
-            if ($LASTEXITCODE -ne 0) { throw 'Could not create the public repository. Check whether it already exists and verify the network.' }
+            if ($repoPrivacy -notmatch 'Could not resolve to a Repository') { throw "Could not check the target repository: $repoPrivacy" }
+            $oldPreference = $ErrorActionPreference
+            try {
+                $ErrorActionPreference = 'Continue'
+                $repoCreateOutput = (& $ghPath repo create $repository --public 2>&1 | Out-String).Trim()
+                $repoCreateExit = $LASTEXITCODE
+            } finally {
+                $ErrorActionPreference = $oldPreference
+            }
+            if ($repoCreateExit -ne 0) { throw "Could not create the public repository: $repoCreateOutput" }
         }
         & $gitPath remote add origin "https://github.com/$repository.git"
         if ($LASTEXITCODE -ne 0) { throw 'Could not add the GitHub repository as origin.' }
