@@ -6,7 +6,7 @@
 
 使用 Node.js 22 或更新版本，在此文件夹运行 `node server.mjs`，然后打开 http://localhost:3211/ 。Windows 也可右键“启动网站.ps1”，选择“使用 PowerShell 运行”。
 
-本机预览地址仅在服务运行时可用。GitHub Pages 云端发布配置已就绪：发布后网页由云端托管，GitHub Actions 每天北京时间 08:00 获取准星公开页面数据并自动发布，无需你的电脑在线。初次部署地址为 `https://169956576-cloud.github.io/kuaika-daily/`，可供其他设备访问。域名 `kuaika.com` 尚未绑定，待 DNS 配置后再添加自定义域名记录。
+本机预览地址仅在服务运行时可用。GitHub Pages 云端由 GitHub Actions 每 30 分钟左右获取一次准星公开页面数据并自动发布，无需你的电脑在线。GitHub 定时任务可能因平台调度而稍有延迟。初次部署地址为 `https://169956576-cloud.github.io/kuaika-daily/`，可供其他设备访问。域名 `kuaika.com` 尚未绑定，待 DNS 配置后再添加自定义域名记录。
 
 在已完成 `gh auth login` 的 PowerShell 中运行“发布到GitHub.ps1”，创建公开仓库并推送网站。首次推送后等待 GitHub Actions 完成，再打开上面的 Pages 地址。同步失败时仍会部署页面，并按数据日期显示旧快照状态。
 
