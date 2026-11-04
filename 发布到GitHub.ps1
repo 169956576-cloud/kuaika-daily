@@ -6,6 +6,8 @@ $repository = "$ownerExpected/$repositoryName"
 $ghPath = 'C:\Program Files\GitHub CLI\gh.exe'
 $gitCommand = Get-Command git -ErrorAction SilentlyContinue
 $gitPath = if ($gitCommand) { $gitCommand.Source } else { Join-Path $env:USERPROFILE '.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd\git.exe' }
+$oldPath = $env:PATH
+$oldGitTerminalPrompt = $env:GIT_TERMINAL_PROMPT
 
 if (-not (Test-Path -LiteralPath $ghPath)) { throw 'GitHub CLI was not found. Install it and reopen PowerShell.' }
 if (-not (Test-Path -LiteralPath $gitPath)) { throw 'Git was not found. Install Git for Windows and reopen PowerShell.' }
@@ -30,6 +32,10 @@ $gitConfigValueName = "GIT_CONFIG_VALUE_$gitConfigIndex"
 $oldGitConfigKey = [Environment]::GetEnvironmentVariable($gitConfigKeyName, 'Process')
 $oldGitConfigValue = [Environment]::GetEnvironmentVariable($gitConfigValueName, 'Process')
 try {
+    $ghDirectory = Split-Path -Parent $ghPath
+    $gitDirectory = Split-Path -Parent $gitPath
+    $env:PATH = "$ghDirectory;$gitDirectory;$oldPath"
+    $env:GIT_TERMINAL_PROMPT = '0'
     $env:GIT_CONFIG_COUNT = [string]($gitConfigIndex + 1)
     [Environment]::SetEnvironmentVariable($gitConfigKeyName, 'safe.directory', 'Process')
     [Environment]::SetEnvironmentVariable($gitConfigValueName, $siteRoot.Replace('\', '/'), 'Process')
@@ -78,11 +84,17 @@ try {
         & $gitPath remote add origin "https://github.com/$repository.git"
         if ($LASTEXITCODE -ne 0) { throw 'Could not add the GitHub repository as origin.' }
     }
+    & $gitPath fetch origin
+    if ($LASTEXITCODE -ne 0) { throw 'Could not fetch the latest GitHub changes.' }
+    & $gitPath rebase origin/main
+    if ($LASTEXITCODE -ne 0) { throw 'Could not rebase local changes onto origin/main. Resolve the reported conflict before pushing.' }
     & $gitPath push --set-upstream origin main
     if ($LASTEXITCODE -ne 0) { throw 'Push failed. The repository may exist; fix the network and retry git push.' }
     Write-Host "Site files pushed. GitHub Pages URL: https://${ownerExpected}.github.io/${repositoryName}/"
     Write-Host 'Wait for the Publish kuaika.com workflow to finish in the GitHub Actions page.'
 } finally {
+    $env:PATH = $oldPath
+    $env:GIT_TERMINAL_PROMPT = $oldGitTerminalPrompt
     $env:GIT_CONFIG_COUNT = $oldGitConfigCount
     [Environment]::SetEnvironmentVariable($gitConfigKeyName, $oldGitConfigKey, 'Process')
     [Environment]::SetEnvironmentVariable($gitConfigValueName, $oldGitConfigValue, 'Process')

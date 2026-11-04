@@ -52,20 +52,19 @@ jobs:
           git diff --cached --quiet || git commit -m "Refresh daily market snapshot"
           git push
 
+      - name: Prepare Pages files
+        run: |
+          mkdir -p site/data
+          cp index.html app.mjs logic.mjs style.css .nojekyll site/
+          cp data/zxfps-latest.json site/data/
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: |
-            index.html
-            app.mjs
-            logic.mjs
-            style.css
-            .nojekyll
-            data/zxfps-latest.json
-          include-hidden-files: true
+          path: site
 
       - name: Deploy site
         id: deployment
