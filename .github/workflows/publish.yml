@@ -19,6 +19,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -41,7 +42,16 @@ jobs:
       - name: Refresh daily source snapshot
         id: sync
         continue-on-error: true
-        run: npm run sync
+        run: |
+          for attempt in 1 2 3; do
+            if npm run sync; then
+              echo "Market refresh succeeded on attempt $attempt" >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then sleep 15; fi
+          done
+          echo "Market refresh failed after 3 attempts; previous snapshot retained." >> "$GITHUB_STEP_SUMMARY"
+          exit 1
 
       - name: Save daily snapshot
         if: steps.sync.outcome == 'success'
@@ -69,3 +79,9 @@ jobs:
       - name: Deploy site
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Report failed data refresh
+        if: steps.sync.outcome == 'failure'
+        run: |
+          echo "::error::The previous snapshot was published because all refresh attempts failed."
+          exit 1
