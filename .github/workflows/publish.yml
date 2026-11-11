@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   publish:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     environment:
       name: github-pages
@@ -37,7 +37,7 @@ jobs:
       - name: Install browser
         run: |
           npm install --no-save --package-lock=false playwright
-          npx playwright install --with-deps chromium
+          npx playwright install chromium
 
       - name: Refresh daily source snapshot
         id: sync
@@ -85,3 +85,4 @@ jobs:
         run: |
           echo "::error::The previous snapshot was published because all refresh attempts failed."
           exit 1
+
