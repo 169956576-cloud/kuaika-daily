@@ -3,7 +3,7 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-13T17:01:39.833Z",
+  "fetchedAt": "2026-11-13T17:31:21.507Z",
   "builds": [
     {
       "name": "枪械优先",
@@ -11,7 +11,7 @@
       "value": 112594,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-13T16:59:43.000Z",
+      "sourceTime": "2026-11-13T17:29:05.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
@@ -23,16 +23,26 @@
     },
     {
       "name": "均衡套装",
-      "cost": 83450,
-      "value": 112764,
+      "cost": 86390,
+      "value": 112700,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-13T16:59:43.000Z",
+      "sourceTime": "2026-11-13T17:29:05.000Z",
       "items": [
         {
-          "name": "SR-3M紧凑突击步枪",
-          "price": 78723,
+          "name": "AKM突击步枪",
+          "price": 75102,
           "type": "枪械1"
+        },
+        {
+          "name": "安保防弹衣 (破损)",
+          "price": 1599,
+          "type": "护甲"
+        },
+        {
+          "name": "旅行背包",
+          "price": 4962,
+          "type": "背包"
         },
         {
           "name": "DSA战术胸挂",
@@ -44,11 +54,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 87742,
-      "value": 113087,
+      "cost": 88100,
+      "value": 112982,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-13T16:59:43.000Z",
+      "sourceTime": "2026-11-13T17:29:05.000Z",
       "items": [
         {
           "name": "SR9射手步枪",
@@ -66,13 +76,18 @@
           "type": "枪械1-瞄具"
         },
         {
-          "name": "复古摩托头盔 (几乎全新)",
-          "price": 6387,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4959,
           "type": "头盔"
         },
         {
+          "name": "摩托马甲 (破损)",
+          "price": 1411,
+          "type": "护甲"
+        },
+        {
           "name": "战术快拆背包",
-          "price": 8625,
+          "price": 9000,
           "type": "背包"
         },
         {
@@ -94,7 +109,7 @@
       "value": 189803,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-13T16:59:44.000Z",
+      "sourceTime": "2026-11-13T17:29:06.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
@@ -116,21 +131,26 @@
     },
     {
       "name": "均衡套装",
-      "cost": 154453,
-      "value": 187713,
+      "cost": 152872,
+      "value": 187781,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-13T16:59:44.000Z",
+      "sourceTime": "2026-11-13T17:29:06.000Z",
       "items": [
         {
           "name": "Mini-14射手步枪",
-          "price": 39668,
+          "price": 39093,
           "type": "枪械1"
         },
         {
           "name": "Mini-14 30发弹匣",
-          "price": 31413,
+          "price": 30663,
           "type": "枪械1-弹匣"
+        },
+        {
+          "name": "Mini-14先进枪身系统",
+          "price": 29585,
+          "type": "枪械1-护木"
         },
         {
           "name": "Osight微型瞄准镜",
@@ -138,64 +158,54 @@
           "type": "枪械1-瞄具"
         },
         {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪械1-护木"
-        },
-        {
-          "name": "复古摩托头盔 (几乎全新)",
-          "price": 6387,
+          "name": "防暴头盔 (破损)",
+          "price": 12774,
           "type": "头盔"
         },
         {
-          "name": "摩托马甲 (几乎全新)",
-          "price": 1636,
-          "type": "护甲"
-        },
-        {
-          "name": "旅行背包",
-          "price": 4962,
+          "name": "轻型户外背包",
+          "price": 6718,
           "type": "背包"
         },
         {
-          "name": "强袭战术背心",
-          "price": 21070,
+          "name": "DSA战术胸挂",
+          "price": 4727,
           "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "胸挂优先",
-      "cost": 155316,
-      "value": 187762,
+      "cost": 155244,
+      "value": 188588,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-13T16:59:44.000Z",
+      "sourceTime": "2026-11-13T17:29:06.000Z",
       "items": [
         {
-          "name": "SR9射手步枪",
-          "price": 11250,
+          "name": "MP5冲锋枪",
+          "price": 39972,
           "type": "枪械1"
         },
         {
-          "name": "G3加强长枪管组合",
-          "price": 23031,
+          "name": "MP5 50发弹鼓",
+          "price": 31913,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "MP5隐蔽短枪管组合",
+          "price": 31441,
           "type": "枪械1-枪管"
         },
         {
-          "name": "共振人体工程握把",
-          "price": 44659,
-          "type": "枪械1-前握把"
-        },
-        {
-          "name": "全景红点瞄准镜",
-          "price": 26204,
-          "type": "枪械1-瞄具"
-        },
-        {
-          "name": "奔尼帽",
-          "price": 2167,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4959,
           "type": "头盔"
         },
         {
@@ -204,8 +214,8 @@
           "type": "护甲"
         },
         {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "斜挎包",
+          "price": 2750,
           "type": "背包"
         },
         {
@@ -223,15 +233,15 @@
     },
     {
       "name": "枪械优先",
-      "cost": 398671,
-      "value": 550246,
+      "cost": 402866,
+      "value": 550298,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
+      "sourceTime": "2026-11-13T17:29:10.000Z",
       "items": [
         {
-          "name": "AKM突击步枪",
-          "price": 75102,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
         },
         {
@@ -241,7 +251,7 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪1-枪口"
         },
         {
@@ -255,38 +265,63 @@
           "type": "枪1-后握把"
         },
         {
+          "name": "AKS74U导轨上护木",
+          "price": 16148,
+          "type": "枪1-护木"
+        },
+        {
           "name": "Osight微型瞄准镜",
           "price": 18992,
           "type": "枪1-瞄具"
         },
         {
-          "name": "AKM突击步枪",
-          "price": 75102,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
         },
         {
-          "name": "AK重塔握把",
-          "price": 38235,
-          "type": "枪械2-后握把"
+          "name": "RK-0前握把",
+          "price": 23937,
+          "type": "枪2-前握把"
+        },
+        {
+          "name": "PBS俄式消音器",
+          "price": 38547,
+          "type": "枪2-枪口"
         },
         {
           "name": "PT1特种枪托",
           "price": 41035,
-          "type": "枪械2-枪托"
+          "type": "枪2-枪托"
         },
         {
-          "name": "尼龙防弹衣 (破损)",
-          "price": 2064,
+          "name": "AK重塔握把",
+          "price": 38235,
+          "type": "枪2-后握把"
+        },
+        {
+          "name": "AKS74U导轨上护木",
+          "price": 16148,
+          "type": "枪2-护木"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 18992,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "奔尼帽 (几乎全新)",
+          "price": 1843,
+          "type": "头盔"
+        },
+        {
+          "name": "安保防弹衣 (破损)",
+          "price": 1599,
           "type": "护甲"
         },
         {
-          "name": "斜挎包",
-          "price": 2625,
-          "type": "背包"
-        },
-        {
-          "name": "DSA战术胸挂",
-          "price": 4727,
+          "name": "强袭战术背心",
+          "price": 21500,
           "type": "胸挂"
         }
       ],
@@ -294,15 +329,15 @@
     },
     {
       "name": "均衡套装",
-      "cost": 408335,
+      "cost": 405809,
       "value": 550274,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
+      "sourceTime": "2026-11-13T17:29:10.000Z",
       "items": [
         {
           "name": "野牛冲锋枪",
-          "price": 12104,
+          "price": 12101,
           "type": "枪1"
         },
         {
@@ -332,7 +367,7 @@
         },
         {
           "name": "野牛冲锋枪",
-          "price": 12104,
+          "price": 12101,
           "type": "枪2"
         },
         {
@@ -352,7 +387,7 @@
         },
         {
           "name": "MHS 战术头盔",
-          "price": 100723,
+          "price": 98203,
           "type": "头盔"
         },
         {
@@ -375,72 +410,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 440988,
-      "value": 550210,
+      "cost": 451359,
+      "value": 550227,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
-      "items": [
-        {
-          "name": "PKM通用机枪",
-          "price": 118553,
-          "type": "枪1"
-        },
-        {
-          "name": "PKM泽宁特枪托",
-          "price": 51149,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "PBS俄式消音器",
-          "price": 37582,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "PKM地平线重枪管",
-          "price": 37257,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "Osight微型瞄准镜",
-          "price": 18992,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "MC201 防弹头盔",
-          "price": 40171,
-          "type": "头盔"
-        },
-        {
-          "name": "简易防刺服 (破损)",
-          "price": 4446,
-          "type": "护甲"
-        },
-        {
-          "name": "战术快拆背包",
-          "price": 8625,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 113893,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 436778,
-      "value": 600260,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
+      "sourceTime": "2026-11-13T17:29:10.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -448,14 +422,14 @@
           "type": "枪1"
         },
         {
-          "name": "RK-0前握把",
-          "price": 23937,
-          "type": "枪1-前握把"
+          "name": "PBS俄式消音器",
+          "price": 38547,
+          "type": "枪1-枪口"
         },
         {
-          "name": "PBS俄式消音器",
-          "price": 37582,
-          "type": "枪1-枪口"
+          "name": "AKM性能枪管组合",
+          "price": 52725,
+          "type": "枪1-枪管"
         },
         {
           "name": "PT1特种枪托",
@@ -473,54 +447,44 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "AKM突击步枪",
-          "price": 75102,
-          "type": "枪2"
+          "name": "D6 战术头盔",
+          "price": 52193,
+          "type": "头盔"
         },
         {
-          "name": "AK重塔握把",
-          "price": 38235,
-          "type": "枪械2-后握把"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 41035,
-          "type": "枪械2-枪托"
-        },
-        {
-          "name": "PBS俄式消音器",
-          "price": 37582,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "轻型防弹衣 (破损)",
-          "price": 2589,
+          "name": "安保防弹衣 (破损)",
+          "price": 1599,
           "type": "护甲"
         },
         {
-          "name": "斜挎包",
-          "price": 2625,
+          "name": "DG运动背包",
+          "price": 6128,
           "type": "背包"
         },
         {
-          "name": "DSA战术胸挂",
-          "price": 4727,
+          "name": "GIR野战胸挂",
+          "price": 116483,
           "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "均衡套装",
-      "cost": 443218,
+      "cost": 438117,
       "value": 600590,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
+      "sourceTime": "2026-11-13T17:29:11.000Z",
       "items": [
         {
           "name": "野牛冲锋枪",
-          "price": 12104,
+          "price": 12101,
           "type": "枪1"
         },
         {
@@ -550,7 +514,7 @@
         },
         {
           "name": "野牛冲锋枪",
-          "price": 12104,
+          "price": 12101,
           "type": "枪2"
         },
         {
@@ -580,12 +544,12 @@
         },
         {
           "name": "HMP特勤防弹衣",
-          "price": 104376,
+          "price": 99156,
           "type": "护甲"
         },
         {
           "name": "斜挎包",
-          "price": 2625,
+          "price": 2750,
           "type": "背包"
         },
         {
@@ -597,12 +561,12 @@
       "source": "准星工具站"
     },
     {
-      "name": "胸挂优先",
-      "cost": 480288,
-      "value": 601767,
+      "name": "枪械优先",
+      "cost": 441488,
+      "value": 600214,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-13T16:59:48.000Z",
+      "sourceTime": "2026-11-13T17:29:11.000Z",
       "items": [
         {
           "name": "AK-12突击步枪",
@@ -621,7 +585,7 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪1-枪口"
         },
         {
@@ -640,30 +604,40 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "MHS 战术头盔 (几乎全新)",
-          "price": 77015,
+          "name": "AK-12突击步枪",
+          "price": 84372,
+          "type": "枪2"
+        },
+        {
+          "name": "AK12精英脚架长枪管",
+          "price": 43503,
+          "type": "枪械2-枪管"
+        },
+        {
+          "name": "安保头盔 (破损)",
+          "price": 1303,
           "type": "头盔"
         },
         {
-          "name": "安保防弹衣 (破损)",
-          "price": 1599,
+          "name": "尼龙防弹衣 (破损)",
+          "price": 2064,
           "type": "护甲"
         },
         {
-          "name": "GIR野战胸挂",
-          "price": 113893,
+          "name": "强袭战术背心",
+          "price": 21500,
           "type": "胸挂"
         }
       ],
       "source": "准星工具站"
     },
     {
-      "name": "枪械优先",
-      "cost": 566824,
-      "value": 780306,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-13T16:59:51.000Z",
+      "name": "胸挂优先",
+      "cost": 481786,
+      "value": 600344,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-13T17:29:11.000Z",
       "items": [
         {
           "name": "AK-12突击步枪",
@@ -682,7 +656,78 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 41035,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AK重塔握把",
+          "price": 38235,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 18992,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "D6 战术头盔",
+          "price": 52193,
+          "type": "头盔"
+        },
+        {
+          "name": "TG战术防弹衣 (破损)",
+          "price": 7326,
+          "type": "护甲"
+        },
+        {
+          "name": "轻型户外背包",
+          "price": 6718,
+          "type": "背包"
+        },
+        {
+          "name": "GIR野战胸挂",
+          "price": 116483,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 568186,
+      "value": 780604,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-13T17:29:13.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 84372,
+          "type": "枪1"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 24062,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12精英脚架长枪管",
+          "price": 43503,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PBS俄式消音器",
+          "price": 38547,
           "type": "枪1-枪口"
         },
         {
@@ -722,7 +767,7 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪械2-枪口"
         },
         {
@@ -731,19 +776,9 @@
           "type": "枪械2-前握把"
         },
         {
-          "name": "安保头盔 (破损)",
-          "price": 1303,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4959,
           "type": "头盔"
-        },
-        {
-          "name": "安保防弹衣 (破损)",
-          "price": 1599,
-          "type": "护甲"
-        },
-        {
-          "name": "斜挎包",
-          "price": 2625,
-          "type": "背包"
         },
         {
           "name": "DSA战术胸挂",
@@ -755,11 +790,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 583790,
-      "value": 780268,
+      "cost": 589054,
+      "value": 780492,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-13T16:59:51.000Z",
+      "sourceTime": "2026-11-13T17:29:13.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -767,14 +802,14 @@
           "type": "枪1"
         },
         {
-          "name": "RK-0前握把",
-          "price": 23937,
-          "type": "枪1-前握把"
+          "name": "PBS俄式消音器",
+          "price": 38547,
+          "type": "枪1-枪口"
         },
         {
-          "name": "PBS俄式消音器",
-          "price": 37582,
-          "type": "枪1-枪口"
+          "name": "AKM性能枪管组合",
+          "price": 52725,
+          "type": "枪1-枪管"
         },
         {
           "name": "PT1特种枪托",
@@ -808,32 +843,27 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪械2-枪口"
         },
         {
-          "name": "Osight微型瞄准镜",
-          "price": 18992,
-          "type": "枪械2-瞄具"
-        },
-        {
-          "name": "复古摩托头盔 (几乎全新)",
-          "price": 6387,
+          "name": "奔尼帽 (几乎全新)",
+          "price": 1843,
           "type": "头盔"
         },
         {
           "name": "HMP特勤防弹衣",
-          "price": 104376,
+          "price": 99156,
           "type": "护甲"
         },
         {
-          "name": "DG运动背包",
-          "price": 6128,
+          "name": "战术快拆背包",
+          "price": 9000,
           "type": "背包"
         },
         {
           "name": "强袭战术背心",
-          "price": 21070,
+          "price": 21500,
           "type": "胸挂"
         }
       ],
@@ -841,11 +871,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 613595,
-      "value": 780481,
+      "cost": 613804,
+      "value": 781251,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-13T16:59:51.000Z",
+      "sourceTime": "2026-11-13T17:29:13.000Z",
       "items": [
         {
           "name": "AKS-74U突击步枪",
@@ -859,7 +889,7 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪1-枪口"
         },
         {
@@ -894,7 +924,7 @@
         },
         {
           "name": "PBS俄式消音器",
-          "price": 37582,
+          "price": 38547,
           "type": "枪2-枪口"
         },
         {
@@ -918,23 +948,23 @@
           "type": "枪2-瞄具"
         },
         {
-          "name": "复古摩托头盔 (几乎全新)",
-          "price": 6387,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4959,
           "type": "头盔"
         },
         {
           "name": "HMP特勤防弹衣",
-          "price": 104376,
+          "price": 99156,
           "type": "护甲"
         },
         {
-          "name": "斜挎包",
-          "price": 2625,
+          "name": "帆布背囊",
+          "price": 4962,
           "type": "背包"
         },
         {
           "name": "GIR野战胸挂",
-          "price": 113893,
+          "price": 116483,
           "type": "胸挂"
         },
         {
@@ -2558,27 +2588,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "6.8x51mm AP",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "7.62x51mm M61",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".50 BMG M10 RAZOR",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2598,7 +2608,17 @@
       "source": "准星工具站"
     },
     {
-      "name": ".50 BMG M3 K-0",
+      "name": ".50 BMG M10 RAZOR",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "6.8x51mm AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2619,6 +2639,16 @@
     },
     {
       "name": "7.62x54R SNB",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".50 BMG M3 K-0",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -3138,7 +3168,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "D7战术背包",
+      "name": "金刚防弹衣",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3158,7 +3188,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "DICH-9重型头盔",
+      "name": "H70 夜视精英头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3168,17 +3198,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "金刚防弹衣",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "特里克MAS2.0装甲",
+      "name": "D7战术背包",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3198,7 +3218,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "H70 夜视精英头盔",
+      "name": "泰坦防弹装甲",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3208,7 +3228,17 @@
       "source": "准星工具站"
     },
     {
-      "name": "泰坦防弹装甲",
+      "name": "DICH-9重型头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "特里克MAS2.0装甲",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
