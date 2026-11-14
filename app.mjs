@@ -1,5 +1,4 @@
-let data={mode:'unconfigured',builds:[],crafts:[],errors:[]},station='全部',requestId=0,toastTimer,records=[],manualBuilds=[],ammoRecords=[],ammoMode='day';
-try{ammoRecords=JSON.parse(localStorage.getItem('deltaDailyAmmo')||'[]');if(!Array.isArray(ammoRecords))throw Error();}catch{ammoRecords=[];}
+import {calculate} from './logic.mjs';
 const $=s=>document.querySelector(s), escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt=n=>new Intl.NumberFormat('zh-CN',{maximumFractionDigits:0}).format(n), day=d=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(d));
 const dateText=d=>new Intl.DateTimeFormat('zh-CN',{timeZone:'Asia/Shanghai',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false}).format(new Date(d));
@@ -86,17 +85,3 @@ $('#buildForm').onsubmit=e=>{
  manualBuilds.unshift(b);manualBuilds=manualBuilds.slice(0,40);persist();render();notify(b.value>=b.threshold?'当天配装已保存，战备总值达标':'配装已保存，但战备总值低于你填写的门槛');
 };
 render();refresh();setInterval(()=>{if(!document.hidden){if(data.mode==='demo')render();else refresh();}},600000);
-
-
-let ammoRecords=[],ammoMode='day';
-try{ammoRecords=JSON.parse(localStorage.getItem('deltaDailyAmmo')||'[]');if(!Array.isArray(ammoRecords))throw Error();}catch{ammoRecords=[];}
-function renderAmmo(){
- const form=$('#ammoForm');if(!form)return;const quantity=Number(form.quantity.value)||30,fee=Number(form.fee.value)||0;
- const ranks=rankAmmoTrades(ammoRecords,{strategy:ammoMode,quantity,fee});
- $('#ammoRecordCount').textContent=ammoRecords.length+' 条';
- $('#ammoSummary').innerHTML='<span>'+(ammoMode==='day'?'按北京时间自然日配对':'按北京时间周一至周日配对')+'</span><span>模拟数量 '+fmt(quantity)+' 发</span><span>卖出手续费 '+fee+'%</span><span>样本子弹 '+ranks.length+' 种</span>';
- $('#ammoRanks').innerHTML=ranks.length?ranks.map((r,i)=>'<tr><td><span class=\"rank '+(i===0?'top':'')+'\">'+String(i+1).padStart(2,'0')+'</span>'+escape(r.name)+'</td><td>'+String(r.buyHour).padStart(2,'0')+':00 前后</td><td>'+String(r.sellHour).padStart(2,'0')+':00 前后</td><td>'+r.opportunities+' 个周期</td><td class=\"green\">+'+fmt(r.avgProfit)+' 币</td><td>最高 +'+fmt(r.bestProfit)+' 币</td></tr>').join(''):'<tr><td colspan=\"6\" class=\"table-empty\">暂无有效盈利样本，请持续记录游戏内子弹价格。</td></tr>';
-}
-const ammoForm=$('#ammoForm');if(ammoForm){ammoForm.observedAt.value=localInput();ammoForm.onsubmit=e=>{e.preventDefault();const f=new FormData(ammoForm),name=f.get('name').trim(),price=Number(f.get('price')),observedAt=new Date(f.get('observedAt')).toISOString();if(!name||!Number.isFinite(price)||price<0){notify('请检查子弹名称和价格');return;}ammoRecords.push({id:crypto.randomUUID(),name,price,observedAt});ammoRecords=ammoRecords.slice(-1000);localStorage.setItem('deltaDailyAmmo',JSON.stringify(ammoRecords));renderAmmo();notify('价格已记录，建议已重算');};ammoForm.quantity.oninput=renderAmmo;ammoForm.fee.oninput=renderAmmo;}
-document.querySelectorAll('[data-ammo-mode]').forEach(b=>b.onclick=()=>{ammoMode=b.dataset.ammoMode;document.querySelectorAll('[data-ammo-mode]').forEach(x=>x.classList.toggle('selected',x===b));renderAmmo();});
-renderAmmo();
