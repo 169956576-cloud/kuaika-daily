@@ -3,34 +3,85 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-16T12:01:29.387Z",
+  "fetchedAt": "2026-11-16T12:31:39.537Z",
   "builds": [
     {
-      "name": "胸挂优先",
-      "cost": 95506,
-      "value": 112700,
+      "name": "枪械优先",
+      "cost": 94733,
+      "value": 112701,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-16T11:56:43.000Z",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
       "items": [
         {
-          "name": "M249轻机枪",
-          "price": 63968,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪1"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "薪火螺旋消焰器",
+          "price": 22254,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "战斗红点瞄准镜",
+          "price": 13329,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 6862,
+          "type": "枪1-护木"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 96107,
+      "value": 112702,
+      "threshold": 112500,
+      "lv": "0",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪械1"
         },
         {
-          "name": "复古摩托头盔 (破损)",
-          "price": 5549,
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪械1-枪托"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 6862,
+          "type": "枪械1-护木"
+        },
+        {
+          "name": "老式钢盔 (几乎全新)",
+          "price": 1324,
           "type": "头盔"
         },
         {
-          "name": "摩托马甲 (几乎全新)",
-          "price": 1716,
-          "type": "护甲"
-        },
-        {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "DASH战术背包",
+          "price": 15156,
           "type": "背包"
         },
         {
@@ -47,27 +98,58 @@
       "source": "准星工具站"
     },
     {
-      "name": "枪械优先",
-      "cost": 95743,
-      "value": 117703,
+      "name": "均衡套装",
+      "cost": 99437,
+      "value": 112742,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-16T11:56:43.000Z",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
       "items": [
         {
-          "name": "AKS-74U突击步枪",
-          "price": 12068,
+          "name": "AKM突击步枪",
+          "price": 87122,
+          "type": "枪械1"
+        },
+        {
+          "name": "奔尼帽",
+          "price": 2272,
+          "type": "头盔"
+        },
+        {
+          "name": "DG运动背包",
+          "price": 6128,
+          "type": "背包"
+        },
+        {
+          "name": "简易携行弹挂",
+          "price": 3915,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 156674,
+      "value": 189639,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
           "type": "枪1"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪1-枪托"
         },
         {
           "name": "DTK制退器",
           "price": 23037,
           "type": "枪1-枪口"
-        },
-        {
-          "name": "PT3死士枪托",
-          "price": 35725,
-          "type": "枪1-枪托"
         },
         {
           "name": "AKS-74U延长弹匣45发",
@@ -78,27 +160,169 @@
       "source": "准星工具站"
     },
     {
-      "name": "均衡套装",
-      "cost": 99330,
-      "value": 112704,
-      "threshold": 112500,
-      "lv": "0",
-      "sourceTime": "2026-11-16T11:56:43.000Z",
+      "name": "胸挂优先",
+      "cost": 160210,
+      "value": 187758,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
       "items": [
         {
-          "name": "AKM突击步枪",
-          "price": 87122,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪械1"
         },
         {
-          "name": "奔尼帽 (几乎全新)",
-          "price": 1843,
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪械1-枪口"
+        },
+        {
+          "name": "防暴头盔 (破损)",
+          "price": 13994,
           "type": "头盔"
         },
         {
-          "name": "轻型防弹衣",
-          "price": 3700,
+          "name": "安保防弹衣",
+          "price": 2390,
           "type": "护甲"
+        },
+        {
+          "name": "DASH战术背包",
+          "price": 15156,
+          "type": "背包"
+        },
+        {
+          "name": "G01战术弹挂",
+          "price": 10157,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 161558,
+      "value": 187933,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-16T12:30:44.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪械1"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪械1-枪口"
+        },
+        {
+          "name": "H01 战术头盔",
+          "price": 7632,
+          "type": "头盔"
+        },
+        {
+          "name": "制式防弹背心 (几乎全新)",
+          "price": 26662,
+          "type": "护甲"
+        },
+        {
+          "name": "DASH战术背包",
+          "price": 15156,
+          "type": "背包"
+        },
+        {
+          "name": "简易携行弹挂",
+          "price": 3915,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 462255,
+      "value": 550283,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪1"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪2"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械2-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械2-弹匣"
         },
         {
           "name": "斜挎包",
@@ -109,78 +333,6 @@
           "name": "简易携行弹挂",
           "price": 3915,
           "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 155421,
-      "value": 187641,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-16T11:56:44.000Z",
-      "items": [
-        {
-          "name": "M249轻机枪",
-          "price": 63968,
-          "type": "枪1"
-        },
-        {
-          "name": "416稳固枪托",
-          "price": 24959,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "M249导轨护木",
-          "price": 21835,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "共振人体工程握把",
-          "price": 44659,
-          "type": "枪1-前握把"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 160968,
-      "value": 187937,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-16T11:56:44.000Z",
-      "items": [
-        {
-          "name": "M249轻机枪",
-          "price": 63968,
-          "type": "枪械1"
-        },
-        {
-          "name": "共振人体工程握把",
-          "price": 44659,
-          "type": "枪械1-前握把"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 13994,
-          "type": "头盔"
-        },
-        {
-          "name": "轻型防弹衣 (破损)",
-          "price": 2714,
-          "type": "护甲"
-        },
-        {
-          "name": "DASH战术背包",
-          "price": 15156,
-          "type": "背包"
-        },
-        {
-          "name": "G01战术弹挂",
-          "price": 10157,
-          "type": "胸挂"
         },
         {
           "name": "M1911",
@@ -192,52 +344,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 161637,
-      "value": 187707,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-16T11:56:44.000Z",
-      "items": [
-        {
-          "name": "M249轻机枪",
-          "price": 63968,
-          "type": "枪械1"
-        },
-        {
-          "name": "共振人体工程握把",
-          "price": 44659,
-          "type": "枪械1-前握把"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 13994,
-          "type": "头盔"
-        },
-        {
-          "name": "摩托马甲 (破损)",
-          "price": 1411,
-          "type": "护甲"
-        },
-        {
-          "name": "野战徒步背包",
-          "price": 33690,
-          "type": "背包"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 454947,
-      "value": 550692,
+      "cost": 482519,
+      "value": 550549,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
       "items": [
         {
           "name": "AK-12突击步枪",
@@ -261,7 +372,7 @@
         },
         {
           "name": "PT1特种枪托",
-          "price": 46390,
+          "price": 48175,
           "type": "枪1-枪托"
         },
         {
@@ -270,227 +381,19 @@
           "type": "枪1-弹匣"
         },
         {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
           "name": "AK-12突击步枪",
           "price": 93417,
           "type": "枪2"
         },
         {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪械2-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪械2-弹匣"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "老式钢盔 (破损)",
-          "price": 1147,
+          "name": "MHS 战术头盔 (几乎全新)",
+          "price": 89855,
           "type": "头盔"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 481481,
-      "value": 550232,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
-      "items": [
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪1"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
-        },
-        {
-          "name": "GT1 战术头盔",
-          "price": 134326,
-          "type": "头盔"
-        },
-        {
-          "name": "便携胸包",
-          "price": 1930,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 500202,
-      "value": 550949,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
-      "items": [
-        {
-          "name": "M249轻机枪",
-          "price": 63968,
-          "type": "枪1"
-        },
-        {
-          "name": "M249导轨护木",
-          "price": 21835,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "先进多口径消音器",
-          "price": 51461,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "共振人体工程握把",
-          "price": 44659,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "QR高性能后托",
-          "price": 51910,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "M249轻机枪",
-          "price": 63968,
-          "type": "枪2"
-        },
-        {
-          "name": "H07 战术头盔 (几乎全新)",
-          "price": 20563,
-          "type": "头盔"
-        },
-        {
-          "name": "制式防弹背心",
-          "price": 34699,
-          "type": "护甲"
-        },
-        {
-          "name": "DASH战术背包",
-          "price": 15156,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 121663,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 497324,
-      "value": 600375,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
-      "items": [
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪1"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪械2-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪械2-弹匣"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪械2-前握把"
         },
         {
           "name": "摩托马甲 (破损)",
@@ -506,93 +409,17 @@
           "name": "简易携行弹挂",
           "price": 3915,
           "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 518205,
-      "value": 600216,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
-      "items": [
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪1"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪械2-枪托"
-        },
-        {
-          "name": "安保头盔 (几乎全新)",
-          "price": 1583,
-          "type": "头盔"
-        },
-        {
-          "name": "武士防弹背心",
-          "price": 111717,
-          "type": "护甲"
-        },
-        {
-          "name": "战术快拆背包",
-          "price": 9375,
-          "type": "背包"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "胸挂优先",
-      "cost": 537529,
-      "value": 600935,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-16T11:56:48.000Z",
+      "cost": 503139,
+      "value": 550362,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
       "items": [
         {
           "name": "AK-12突击步枪",
@@ -616,7 +443,7 @@
         },
         {
           "name": "PT1特种枪托",
-          "price": 46390,
+          "price": 48175,
           "type": "枪1-枪托"
         },
         {
@@ -625,18 +452,18 @@
           "type": "枪1-弹匣"
         },
         {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
         },
         {
-          "name": "防暴头盔 (破损)",
-          "price": 13994,
+          "name": "防暴头盔",
+          "price": 24337,
           "type": "头盔"
         },
         {
-          "name": "制式防弹背心 (几乎全新)",
-          "price": 26662,
+          "name": "TG-H防弹衣",
+          "price": 48389,
           "type": "护甲"
         },
         {
@@ -658,103 +485,12 @@
       "source": "准星工具站"
     },
     {
-      "name": "均衡套装",
-      "cost": 672315,
-      "value": 780256,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-16T11:56:52.000Z",
-      "items": [
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪1"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪2-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪2-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "GT1 战术头盔",
-          "price": 134326,
-          "type": "头盔"
-        },
-        {
-          "name": "制式防弹背心 (几乎全新)",
-          "price": 26662,
-          "type": "护甲"
-        },
-        {
-          "name": "运动背包",
-          "price": 3796,
-          "type": "背包"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
       "name": "枪械优先",
-      "cost": 672794,
-      "value": 780360,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-16T11:56:52.000Z",
+      "cost": 501451,
+      "value": 600270,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
       "items": [
         {
           "name": "AK-12突击步枪",
@@ -778,7 +514,7 @@
         },
         {
           "name": "PT1特种枪托",
-          "price": 46390,
+          "price": 48175,
           "type": "枪1-枪托"
         },
         {
@@ -787,95 +523,9 @@
           "type": "枪1-弹匣"
         },
         {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪2"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪2-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪2-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "GT1 战术头盔",
-          "price": 134326,
-          "type": "头盔"
-        },
-        {
-          "name": "制式防弹背心 (几乎全新)",
-          "price": 26662,
-          "type": "护甲"
-        },
-        {
-          "name": "运动背包",
-          "price": 3796,
-          "type": "背包"
-        },
-        {
-          "name": "HD3战术胸挂",
-          "price": 4394,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 690976,
-      "value": 780275,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-16T11:56:52.000Z",
-      "items": [
-        {
-          "name": "AK-12突击步枪",
-          "price": 93417,
-          "type": "枪1"
-        },
-        {
-          "name": "DTK制退器",
-          "price": 23037,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "K1精英斜角握把",
-          "price": 26957,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "AK12前线长枪管",
-          "price": 37094,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "PT1特种枪托",
-          "price": 46390,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "AKS-74U延长弹匣45发",
-          "price": 24913,
-          "type": "枪1-弹匣"
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
         },
         {
           "name": "AK-12突击步枪",
@@ -884,7 +534,7 @@
         },
         {
           "name": "PT1特种枪托",
-          "price": 46390,
+          "price": 48175,
           "type": "枪械2-枪托"
         },
         {
@@ -898,18 +548,448 @@
           "type": "枪械2-枪口"
         },
         {
-          "name": "安保头盔 (几乎全新)",
-          "price": 1583,
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪械2-前握把"
+        },
+        {
+          "name": "奔尼帽",
+          "price": 2272,
+          "type": "头盔"
+        },
+        {
+          "name": "简易携行弹挂",
+          "price": 3915,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 532121,
+      "value": 600409,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪1"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪2"
+        },
+        {
+          "name": "H07 战术头盔",
+          "price": 25947,
           "type": "头盔"
         },
         {
           "name": "武士防弹背心",
-          "price": 111717,
+          "price": 114442,
           "type": "护甲"
         },
         {
-          "name": "DG运动背包",
-          "price": 6128,
+          "name": "DASH战术背包",
+          "price": 15156,
+          "type": "背包"
+        },
+        {
+          "name": "HD3战术胸挂",
+          "price": 4394,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 550124,
+      "value": 600466,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-16T12:30:48.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪1"
+        },
+        {
+          "name": "幻影垂直握把",
+          "price": 51523,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 6862,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪2"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械2-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械2-弹匣"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪械2-枪口"
+        },
+        {
+          "name": "H01 战术头盔",
+          "price": 7632,
+          "type": "头盔"
+        },
+        {
+          "name": "HMP特勤防弹衣 (几乎全新)",
+          "price": 95410,
+          "type": "护甲"
+        },
+        {
+          "name": "DASH战术背包",
+          "price": 15156,
+          "type": "背包"
+        },
+        {
+          "name": "GIR野战胸挂",
+          "price": 121663,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 673642,
+      "value": 780262,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-16T12:30:53.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪1"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪2"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪2-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪2-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪2-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪2-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "老式钢盔",
+          "price": 1631,
+          "type": "头盔"
+        },
+        {
+          "name": "HMP特勤防弹衣 (几乎全新)",
+          "price": 95410,
+          "type": "护甲"
+        },
+        {
+          "name": "DASH战术背包",
+          "price": 15156,
+          "type": "背包"
+        },
+        {
+          "name": "简易携行弹挂",
+          "price": 3915,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 680972,
+      "value": 780204,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-16T12:30:53.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪1"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪2"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械2-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械2-弹匣"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪械2-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪械2-前握把"
+        },
+        {
+          "name": "GT1 战术头盔",
+          "price": 137451,
+          "type": "头盔"
+        },
+        {
+          "name": "制式防弹背心 (几乎全新)",
+          "price": 26662,
+          "type": "护甲"
+        },
+        {
+          "name": "雨林猎手背包",
+          "price": 19665,
+          "type": "背包"
+        },
+        {
+          "name": "便携胸包",
+          "price": 1930,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 701517,
+      "value": 780419,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-16T12:30:53.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪1"
+        },
+        {
+          "name": "DTK制退器",
+          "price": 23037,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "K1精英斜角握把",
+          "price": 26957,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK12前线长枪管",
+          "price": 37094,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "Osight微型瞄准镜",
+          "price": 25172,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 93417,
+          "type": "枪2"
+        },
+        {
+          "name": "PT1特种枪托",
+          "price": 48175,
+          "type": "枪械2-枪托"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪械2-弹匣"
+        },
+        {
+          "name": "复古摩托头盔",
+          "price": 9189,
+          "type": "头盔"
+        },
+        {
+          "name": "HMP特勤防弹衣 (几乎全新)",
+          "price": 95410,
+          "type": "护甲"
+        },
+        {
+          "name": "雨林猎手背包",
+          "price": 19665,
           "type": "背包"
         },
         {
@@ -1418,21 +1498,21 @@
       "source": "准星工具站"
     },
     {
-      "name": "M14射手步枪",
-      "station": "技术中心",
-      "profit": 3421,
-      "hourly": 114,
-      "hours": 30,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "战斗红点瞄准镜",
       "station": "技术中心",
       "profit": 688,
       "hourly": 114,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "M14射手步枪",
+      "station": "技术中心",
+      "profit": 3421,
+      "hourly": 114,
+      "hours": 30,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1568,7 +1648,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "竞赛阻手器",
+      "name": "战术垂直握把",
       "station": "技术中心",
       "profit": -2155,
       "hourly": -538,
@@ -1578,7 +1658,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "战术垂直握把",
+      "name": "竞赛阻手器",
       "station": "技术中心",
       "profit": -2155,
       "hourly": -538,
@@ -1658,21 +1738,21 @@
       "source": "准星工具站"
     },
     {
-      "name": "相位战斗前握把",
-      "station": "技术中心",
-      "profit": -2759,
-      "hourly": -689,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "okp-7反射瞄准镜",
       "station": "技术中心",
       "profit": -4139,
       "hourly": -689,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "相位战斗前握把",
+      "station": "技术中心",
+      "profit": -2759,
+      "hourly": -689,
+      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2558,16 +2638,6 @@
       "source": "准星工具站"
     },
     {
-      "name": "6.8x51mm AP",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": ".50 BMG M10 RAZOR",
       "station": "工作台",
       "profit": 0,
@@ -2588,7 +2658,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "7.62x51mm M61",
+      "name": ".338 Lap Mag AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2608,7 +2678,17 @@
       "source": "准星工具站"
     },
     {
-      "name": ".338 Lap Mag AP",
+      "name": "7.62x51mm M61",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "6.8x51mm AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -3128,27 +3208,17 @@
       "source": "准星工具站"
     },
     {
-      "name": "金刚防弹衣",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "特里克MAS2.0装甲",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "DICH-9重型头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "GT5 指挥官头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3178,7 +3248,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "GTO重型战术包",
+      "name": "金刚防弹衣",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3188,7 +3258,17 @@
       "source": "准星工具站"
     },
     {
-      "name": "GT5 指挥官头盔",
+      "name": "特里克MAS2.0装甲",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "GTO重型战术包",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
