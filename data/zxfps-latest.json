@@ -3,15 +3,15 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-17T01:01:23.258Z",
+  "fetchedAt": "2026-11-17T01:31:41.953Z",
   "builds": [
     {
       "name": "均衡套装",
-      "cost": 89576,
-      "value": 112704,
+      "cost": 90904,
+      "value": 112838,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-17T00:59:05.000Z",
+      "sourceTime": "2026-11-17T01:26:43.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -20,17 +20,22 @@
         },
         {
           "name": "实用消音器",
-          "price": 15154,
+          "price": 15629,
           "type": "枪械1-枪口"
         },
         {
-          "name": "安保防弹衣 (破损)",
-          "price": 1679,
+          "name": "奔尼帽",
+          "price": 2167,
+          "type": "头盔"
+        },
+        {
+          "name": "摩托马甲 (破损)",
+          "price": 1411,
           "type": "护甲"
         },
         {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "斜挎包",
+          "price": 2750,
           "type": "背包"
         },
         {
@@ -48,11 +53,11 @@
     },
     {
       "name": "枪械优先",
-      "cost": 91576,
+      "cost": 92051,
       "value": 112542,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-17T00:59:05.000Z",
+      "sourceTime": "2026-11-17T01:26:43.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -61,7 +66,7 @@
         },
         {
           "name": "实用消音器",
-          "price": 15154,
+          "price": 15629,
           "type": "枪1-枪口"
         },
         {
@@ -74,11 +79,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 92678,
+      "cost": 93288,
       "value": 112904,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-17T00:59:05.000Z",
+      "sourceTime": "2026-11-17T01:26:43.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -87,7 +92,7 @@
         },
         {
           "name": "防暴头盔 (破损)",
-          "price": 11554,
+          "price": 12164,
           "type": "头盔"
         },
         {
@@ -114,89 +119,119 @@
       "source": "准星工具站"
     },
     {
-      "name": "枪械优先",
-      "cost": 156923,
-      "value": 187895,
+      "name": "均衡套装",
+      "cost": 161369,
+      "value": 187792,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-17T00:59:06.000Z",
+      "sourceTime": "2026-11-17T01:26:44.000Z",
       "items": [
         {
-          "name": "PKM通用机枪",
-          "price": 100313,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
+          "type": "枪械1"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪械1-枪口"
+        },
+        {
+          "name": "防暴头盔 (破损)",
+          "price": 12164,
+          "type": "头盔"
+        },
+        {
+          "name": "轻型防弹衣 (几乎全新)",
+          "price": 3142,
+          "type": "护甲"
+        },
+        {
+          "name": "旅行背包",
+          "price": 4962,
+          "type": "背包"
+        },
+        {
+          "name": "DSA战术胸挂",
+          "price": 4992,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 9100,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 162166,
+      "value": 187982,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-17T01:26:44.000Z",
+      "items": [
+        {
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪1"
         },
         {
-          "name": "PKM地平线重枪管",
-          "price": 42397,
-          "type": "枪1-枪管"
+          "name": "PSO战斗2.5倍瞄准镜",
+          "price": 20522,
+          "type": "枪1-瞄具"
         },
         {
-          "name": "射手AK后握把",
-          "price": 14213,
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "稳定AK后握把",
+          "price": 14635,
           "type": "枪1-后握把"
         }
       ],
       "source": "准星工具站"
     },
     {
-      "name": "均衡套装",
-      "cost": 157573,
-      "value": 188138,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-17T00:59:06.000Z",
-      "items": [
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪械1"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械1-瞄具"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪械1-弹匣"
-        },
-        {
-          "name": "D6 战术头盔",
-          "price": 48463,
-          "type": "头盔"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
       "name": "胸挂优先",
-      "cost": 159246,
-      "value": 188041,
+      "cost": 166090,
+      "value": 187720,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-17T00:59:06.000Z",
+      "sourceTime": "2026-11-17T01:26:44.000Z",
       "items": [
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "S12K霰弹枪",
+          "price": 35755,
           "type": "枪械1"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械1-瞄具"
+          "name": "S12K扩容24发弹鼓",
+          "price": 40956,
+          "type": "枪械1-弹匣"
         },
         {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪械1-弹匣"
+          "name": "霰弹枪巨炮制退器",
+          "price": 20840,
+          "type": "枪械1-枪口"
+        },
+        {
+          "name": "S12K实用短枪管组合",
+          "price": 16077,
+          "type": "枪械1-枪管"
         },
         {
           "name": "防暴头盔 (破损)",
-          "price": 11554,
+          "price": 12164,
           "type": "头盔"
+        },
+        {
+          "name": "摩托马甲 (几乎全新)",
+          "price": 1716,
+          "type": "护甲"
         },
         {
           "name": "雨林猎手背包",
@@ -218,178 +253,87 @@
     },
     {
       "name": "枪械优先",
-      "cost": 470046,
-      "value": 550509,
+      "cost": 474980,
+      "value": 549568,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-17T00:59:10.000Z",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
       "items": [
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪1"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
+          "name": "全景红点瞄准镜",
+          "price": 28264,
           "type": "枪1-瞄具"
         },
         {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
           "type": "枪1-枪口"
         },
         {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪1-弹匣"
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪1-后握把"
         },
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪2"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪2-瞄具"
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪械2-后握把"
         },
         {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪2-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 11554,
-          "type": "头盔"
-        },
-        {
-          "name": "TG战术防弹衣 (破损)",
-          "price": 7326,
-          "type": "护甲"
-        },
-        {
-          "name": "强袭战术背心",
-          "price": 22360,
-          "type": "胸挂"
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪械2-枪口"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "均衡套装",
-      "cost": 474799,
-      "value": 550645,
+      "cost": 479455,
+      "value": 550383,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-17T00:59:10.000Z",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
       "items": [
         {
-          "name": "SVD狙击步枪",
-          "price": 99900,
+          "name": "QJB201轻机枪",
+          "price": 94233,
           "type": "枪1"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
+          "name": "全景红点瞄准镜",
+          "price": 28264,
           "type": "枪1-瞄具"
         },
         {
           "name": "轻语战术消音器",
-          "price": 74968,
+          "price": 76753,
           "type": "枪1-枪口"
         },
         {
-          "name": "svd聚合物护木",
-          "price": 21880,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "SVD狙击步枪",
-          "price": 99900,
-          "type": "枪2"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械2-瞄具"
-        },
-        {
-          "name": "D6 战术头盔",
-          "price": 48463,
-          "type": "头盔"
-        },
-        {
-          "name": "安保防弹衣 (破损)",
-          "price": 1679,
-          "type": "护甲"
-        },
-        {
-          "name": "突击者战术背心",
-          "price": 52211,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 497866,
-      "value": 550405,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-17T00:59:10.000Z",
-      "items": [
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪1"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
+          "name": "5.8新式60发弹鼓",
+          "price": 36299,
           "type": "枪1-弹匣"
         },
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "QJB201轻机枪",
+          "price": 94233,
           "type": "枪2"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械2-瞄具"
+          "name": "5.8新式60发弹鼓",
+          "price": 36299,
+          "type": "枪械2-弹匣"
         },
         {
           "name": "D6 战术头盔",
@@ -402,170 +346,8 @@
           "type": "护甲"
         },
         {
-          "name": "GA野战背包",
-          "price": 21750,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 124253,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 9100,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 514030,
-      "value": 600545,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-17T00:59:11.000Z",
-      "items": [
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪1"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪2"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪2-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "D6 战术头盔",
-          "price": 48463,
-          "type": "头盔"
-        },
-        {
-          "name": "简易防刺服 (几乎全新)",
-          "price": 5401,
-          "type": "护甲"
-        },
-        {
           "name": "战术快拆背包",
           "price": 9000,
-          "type": "背包"
-        },
-        {
-          "name": "强袭战术背心",
-          "price": 22360,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 516815,
-      "value": 600442,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-17T00:59:11.000Z",
-      "items": [
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪1"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
-          "type": "枪2"
-        },
-        {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械2-瞄具"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪械2-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "D6 战术头盔",
-          "price": 48463,
-          "type": "头盔"
-        },
-        {
-          "name": "尼龙防弹衣 (几乎全新)",
-          "price": 2504,
-          "type": "护甲"
-        },
-        {
-          "name": "DASH战术背包",
-          "price": 15156,
           "type": "背包"
         },
         {
@@ -578,51 +360,36 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 539482,
-      "value": 600777,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-17T00:59:11.000Z",
+      "cost": 500447,
+      "value": 550513,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
       "items": [
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "P90冲锋枪",
+          "price": 54855,
           "type": "枪1"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
+          "name": "全景红点瞄准镜",
+          "price": 28264,
           "type": "枪1-瞄具"
         },
         {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
           "name": "轻语战术消音器",
-          "price": 74968,
+          "price": 76753,
           "type": "枪1-枪口"
         },
         {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "P90冲锋枪",
+          "price": 54855,
           "type": "枪2"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪械2-瞄具"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪械2-弹匣"
+          "name": "轻语战术消音器",
+          "price": 76753,
+          "type": "枪械2-枪口"
         },
         {
           "name": "D6 战术头盔",
@@ -630,8 +397,201 @@
           "type": "头盔"
         },
         {
-          "name": "通用战术背心 (几乎全新)",
-          "price": 12403,
+          "name": "简易防刺服 (几乎全新)",
+          "price": 5401,
+          "type": "护甲"
+        },
+        {
+          "name": "GA野战背包",
+          "price": 21750,
+          "type": "背包"
+        },
+        {
+          "name": "GIR野战胸挂",
+          "price": 124253,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 9100,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 517598,
+      "value": 600278,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
+      "items": [
+        {
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
+          "type": "枪1"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
+          "type": "枪2"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪2-后握把"
+        },
+        {
+          "name": "复古摩托头盔 (破损)",
+          "price": 5254,
+          "type": "头盔"
+        },
+        {
+          "name": "M1911",
+          "price": 9100,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 523831,
+      "value": 600331,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
+      "items": [
+        {
+          "name": "野牛冲锋枪",
+          "price": 12104,
+          "type": "枪1"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "野牛冲锋枪",
+          "price": 12104,
+          "type": "枪2"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪2-枪托"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪2-后握把"
+        },
+        {
+          "name": "H09 防暴头盔 (破损)",
+          "price": 124761,
+          "type": "头盔"
+        },
+        {
+          "name": "通用战术胸挂",
+          "price": 4510,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 545834,
+      "value": 600387,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-17T01:26:48.000Z",
+      "items": [
+        {
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
+          "type": "枪1"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
+          "type": "枪2"
+        },
+        {
+          "name": "D6 战术头盔",
+          "price": 48463,
+          "type": "头盔"
+        },
+        {
+          "name": "TG战术防弹衣 (几乎全新)",
+          "price": 8893,
           "type": "护甲"
         },
         {
@@ -654,16 +614,26 @@
     },
     {
       "name": "均衡套装",
-      "cost": 675944,
-      "value": 780761,
+      "cost": 677356,
+      "value": 780562,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-17T00:59:13.000Z",
+      "sourceTime": "2026-11-17T01:26:51.000Z",
       "items": [
         {
-          "name": "PKM通用机枪",
-          "price": 100313,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪1"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪1-枪口"
         },
         {
           "name": "AK镂空握把",
@@ -671,33 +641,43 @@
           "type": "枪1-后握把"
         },
         {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "PKM地平线重枪管",
-          "price": 42397,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "先进白热成像战斗瞄准镜",
-          "price": 139033,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "PKM通用机枪",
-          "price": 100313,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪2"
         },
         {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪2-后握把"
+        },
+        {
           "name": "H09 防暴头盔 (破损)",
-          "price": 120601,
+          "price": 124761,
           "type": "头盔"
         },
         {
-          "name": "简易挂载包",
-          "price": 1970,
+          "name": "TG战术防弹衣 (破损)",
+          "price": 7326,
+          "type": "护甲"
+        },
+        {
+          "name": "雨林猎手背包",
+          "price": 19665,
+          "type": "背包"
+        },
+        {
+          "name": "强袭战术背心",
+          "price": 22360,
           "type": "胸挂"
         }
       ],
@@ -705,16 +685,26 @@
     },
     {
       "name": "枪械优先",
-      "cost": 677758,
-      "value": 780205,
+      "cost": 694237,
+      "value": 780219,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-17T00:59:13.000Z",
+      "sourceTime": "2026-11-17T01:26:51.000Z",
       "items": [
         {
-          "name": "PKM通用机枪",
-          "price": 100313,
+          "name": "AKM突击步枪",
+          "price": 81112,
           "type": "枪1"
+        },
+        {
+          "name": "AK19枪托",
+          "price": 15307,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪1-瞄具"
         },
         {
           "name": "AK镂空握把",
@@ -722,23 +712,18 @@
           "type": "枪1-后握把"
         },
         {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "PKM地平线重枪管",
-          "price": 42397,
+          "name": "AKM性能枪管组合",
+          "price": 54190,
           "type": "枪1-枪管"
         },
         {
-          "name": "先进白热成像战斗瞄准镜",
-          "price": 139033,
-          "type": "枪1-瞄具"
+          "name": "轻语战术消音器",
+          "price": 76753,
+          "type": "枪1-枪口"
         },
         {
-          "name": "PKM通用机枪",
-          "price": 100313,
+          "name": "AKM突击步枪",
+          "price": 81112,
           "type": "枪2"
         },
         {
@@ -747,99 +732,84 @@
           "type": "枪械2-后握把"
         },
         {
-          "name": "防暴头盔 (破损)",
-          "price": 11554,
-          "type": "头盔"
+          "name": "AKM性能枪管组合",
+          "price": 54190,
+          "type": "枪械2-枪管"
         },
         {
-          "name": "安保防弹衣",
-          "price": 2390,
+          "name": "轻语战术消音器",
+          "price": 76753,
+          "type": "枪械2-枪口"
+        },
+        {
+          "name": "全景红点瞄准镜",
+          "price": 28264,
+          "type": "枪械2-瞄具"
+        },
+        {
+          "name": "安保防弹衣 (破损)",
+          "price": 1679,
           "type": "护甲"
         },
         {
-          "name": "DSA战术胸挂",
-          "price": 4992,
+          "name": "简易携行弹挂",
+          "price": 3915,
           "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 9100,
-          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "胸挂优先",
-      "cost": 688946,
-      "value": 780200,
+      "cost": 699980,
+      "value": 780274,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-17T00:59:13.000Z",
+      "sourceTime": "2026-11-17T01:26:51.000Z",
       "items": [
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪1"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
+          "name": "全景红点瞄准镜",
+          "price": 28264,
           "type": "枪1-瞄具"
         },
         {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪1-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
+          "name": "俄系冲锋枪精密消音器",
+          "price": 45256,
           "type": "枪1-枪口"
         },
         {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪1-弹匣"
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪1-后握把"
         },
         {
-          "name": "Mini-14射手步枪",
-          "price": 38298,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 81753,
           "type": "枪2"
         },
         {
-          "name": "6/12神射手变倍狙击镜",
-          "price": 37899,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "Mini-14先进枪身系统",
-          "price": 30325,
-          "type": "枪2-护木"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 74968,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "Mini-14 30发弹匣",
-          "price": 32913,
-          "type": "枪2-弹匣"
+          "name": "AK镂空握把",
+          "price": 96349,
+          "type": "枪械2-后握把"
         },
         {
           "name": "H09 防暴头盔 (破损)",
-          "price": 120601,
+          "price": 124761,
           "type": "头盔"
         },
         {
-          "name": "安保防弹衣",
-          "price": 2390,
+          "name": "轻型防弹衣 (几乎全新)",
+          "price": 3142,
           "type": "护甲"
         },
         {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "战术快拆背包",
+          "price": 9000,
           "type": "背包"
         },
         {
@@ -2478,26 +2448,6 @@
       "source": "准星工具站"
     },
     {
-      "name": ".50 BMG M10 RAZOR",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".50 BMG M3 K-0",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "7.62x54R SNB",
       "station": "工作台",
       "profit": 0,
@@ -2508,7 +2458,27 @@
       "source": "准星工具站"
     },
     {
+      "name": ".50 BMG M10 RAZOR",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": ".338 Lap Mag AP",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".50 BMG M3 K-0",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -3048,7 +3018,47 @@
       "source": "准星工具站"
     },
     {
+      "name": "特里克MAS2.0装甲",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": "GTO重型战术包",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "金刚防弹衣",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "GT5 指挥官头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "DICH-9重型头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3078,47 +3088,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "金刚防弹衣",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "特里克MAS2.0装甲",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "D7战术背包",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "GT5 指挥官头盔",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "DICH-9重型头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
