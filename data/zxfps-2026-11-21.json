@@ -3,15 +3,15 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-21T06:31:26.158Z",
+  "fetchedAt": "2026-11-21T07:01:38.649Z",
   "builds": [
     {
       "name": "均衡套装",
-      "cost": 96301,
-      "value": 112706,
+      "cost": 96144,
+      "value": 112720,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-21T06:30:43.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -19,14 +19,9 @@
           "type": "枪械1"
         },
         {
-          "name": "老式钢盔 (破损)",
-          "price": 1147,
+          "name": "老式钢盔 (几乎全新)",
+          "price": 1324,
           "type": "头盔"
-        },
-        {
-          "name": "摩托马甲 (破损)",
-          "price": 1411,
-          "type": "护甲"
         },
         {
           "name": "运动背包",
@@ -34,8 +29,8 @@
           "type": "背包"
         },
         {
-          "name": "简易携行弹挂",
-          "price": 3915,
+          "name": "DSA战术胸挂",
+          "price": 4992,
           "type": "胸挂"
         },
         {
@@ -52,7 +47,7 @@
       "value": 113896,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-21T06:30:43.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -73,7 +68,7 @@
       "value": 112991,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-21T06:30:43.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -100,15 +95,15 @@
     },
     {
       "name": "枪械优先",
-      "cost": 149184,
+      "cost": 152194,
       "value": 187784,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-21T06:30:44.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪1"
         },
         {
@@ -130,7 +125,7 @@
       "value": 187817,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-21T06:30:44.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -172,11 +167,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 161712,
+      "cost": 162142,
       "value": 187753,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-21T06:30:44.000Z",
+      "sourceTime": "2026-11-21T07:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -199,13 +194,13 @@
           "type": "护甲"
         },
         {
-          "name": "帆布背囊",
+          "name": "旅行背包",
           "price": 4962,
           "type": "背包"
         },
         {
           "name": "强袭战术背心",
-          "price": 24510,
+          "price": 24940,
           "type": "胸挂"
         }
       ],
@@ -213,16 +208,21 @@
     },
     {
       "name": "枪械优先",
-      "cost": 462309,
-      "value": 550328,
+      "cost": 473577,
+      "value": 550291,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-21T06:30:48.000Z",
+      "sourceTime": "2026-11-21T06:59:48.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
         },
         {
           "name": "UR特种战术枪托",
@@ -251,7 +251,215 @@
         },
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
+          "type": "枪2"
+        },
+        {
+          "name": "SCARH 30发弹匣",
+          "price": 27977,
+          "type": "枪械2-弹匣"
+        },
+        {
+          "name": "老式钢盔 (破损)",
+          "price": 1147,
+          "type": "头盔"
+        },
+        {
+          "name": "DSA战术胸挂",
+          "price": 4992,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10930,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 499481,
+      "value": 550555,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-21T06:59:48.000Z",
+      "items": [
+        {
+          "name": "AK-12突击步枪",
+          "price": 81357,
+          "type": "枪1"
+        },
+        {
+          "name": "PT3死士枪托",
+          "price": 30355,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 101704,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "俄式准直二倍瞄准镜",
+          "price": 14505,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 80323,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "AK-12突击步枪",
+          "price": 81357,
+          "type": "枪2"
+        },
+        {
+          "name": "防暴头盔 (破损)",
+          "price": 12774,
+          "type": "头盔"
+        },
+        {
+          "name": "射手战术背心 (几乎全新)",
+          "price": 42307,
+          "type": "护甲"
+        },
+        {
+          "name": "旅行背包",
+          "price": 4962,
+          "type": "背包"
+        },
+        {
+          "name": "强袭战术背心",
+          "price": 24940,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 537274,
+      "value": 550441,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-21T06:59:48.000Z",
+      "items": [
+        {
+          "name": "M4A1突击步枪",
+          "price": 120668,
+          "type": "枪1"
+        },
+        {
+          "name": "UR特种战术枪托",
+          "price": 49915,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "俄式准直二倍瞄准镜",
+          "price": 14505,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AR特攻短枪管组合",
+          "price": 26823,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "射手D-2后握把",
+          "price": 10890,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 80323,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "H07 战术头盔 (几乎全新)",
+          "price": 19798,
+          "type": "头盔"
+        },
+        {
+          "name": "射手战术背心 (几乎全新)",
+          "price": 42307,
+          "type": "护甲"
+        },
+        {
+          "name": "战术快拆背包",
+          "price": 9375,
+          "type": "背包"
+        },
+        {
+          "name": "GIR野战胸挂",
+          "price": 126843,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10930,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 516521,
+      "value": 600230,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-21T06:59:49.000Z",
+      "items": [
+        {
+          "name": "SCAR-H战斗步枪",
+          "price": 99320,
+          "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "UR特种战术枪托",
+          "price": 49915,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "SCARH 30发弹匣",
+          "price": 27977,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "射手D-2后握把",
+          "price": 10890,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 80323,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "SCAR-H战斗步枪",
+          "price": 99320,
           "type": "枪2"
         },
         {
@@ -265,8 +473,13 @@
           "type": "枪械2-前握把"
         },
         {
-          "name": "尼龙防弹衣",
-          "price": 3095,
+          "name": "防暴头盔 (破损)",
+          "price": 12774,
+          "type": "头盔"
+        },
+        {
+          "name": "尼龙防弹衣 (几乎全新)",
+          "price": 2624,
           "type": "护甲"
         },
         {
@@ -289,204 +502,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 485210,
-      "value": 550736,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-21T06:30:48.000Z",
-      "items": [
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪1"
-        },
-        {
-          "name": "UR特种战术枪托",
-          "price": 49915,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "射手D-2后握把",
-          "price": 10890,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 80323,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪2"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 12774,
-          "type": "头盔"
-        },
-        {
-          "name": "制式防弹背心 (几乎全新)",
-          "price": 25707,
-          "type": "护甲"
-        },
-        {
-          "name": "运动背包",
-          "price": 3796,
-          "type": "背包"
-        },
-        {
-          "name": "突击者战术背心",
-          "price": 56311,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 510875,
-      "value": 550315,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-21T06:30:48.000Z",
-      "items": [
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪1"
-        },
-        {
-          "name": "UR特种战术枪托",
-          "price": 49915,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "射手D-2后握把",
-          "price": 10890,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 80323,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "HMP特勤防弹衣 (几乎全新)",
-          "price": 90970,
-          "type": "护甲"
-        },
-        {
-          "name": "斜挎包",
-          "price": 2750,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 126843,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 510971,
-      "value": 600208,
+      "cost": 533357,
+      "value": 600337,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-21T06:30:49.000Z",
-      "items": [
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪1"
-        },
-        {
-          "name": "UR特种战术枪托",
-          "price": 49915,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "射手D-2后握把",
-          "price": 10890,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 80323,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪2"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪械2-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪械2-前握把"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 12774,
-          "type": "头盔"
-        },
-        {
-          "name": "安保防弹衣",
-          "price": 2390,
-          "type": "护甲"
-        },
-        {
-          "name": "突击者战术背心",
-          "price": 56311,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 532680,
-      "value": 600277,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-21T06:30:49.000Z",
+      "sourceTime": "2026-11-21T06:59:49.000Z",
       "items": [
         {
           "name": "AUG突击步枪",
@@ -505,7 +525,7 @@
         },
         {
           "name": "俄式准直二倍瞄准镜",
-          "price": 13985,
+          "price": 14505,
           "type": "枪1-瞄具"
         },
         {
@@ -519,8 +539,8 @@
           "type": "枪械2-枪管"
         },
         {
-          "name": "MC防弹头盔 (破损)",
-          "price": 7699,
+          "name": "复古摩托头盔 (破损)",
+          "price": 5549,
           "type": "头盔"
         },
         {
@@ -529,13 +549,13 @@
           "type": "护甲"
         },
         {
-          "name": "轻型户外背包",
-          "price": 7013,
+          "name": "大型登山包",
+          "price": 8890,
           "type": "背包"
         },
         {
           "name": "强袭战术背心",
-          "price": 24510,
+          "price": 24940,
           "type": "胸挂"
         }
       ],
@@ -543,16 +563,21 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 558739,
-      "value": 600451,
+      "cost": 561750,
+      "value": 600555,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-21T06:30:49.000Z",
+      "sourceTime": "2026-11-21T06:59:49.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
         },
         {
           "name": "UR特种战术枪托",
@@ -580,18 +605,13 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "防暴头盔 (破损)",
-          "price": 12774,
-          "type": "头盔"
-        },
-        {
           "name": "HMP特勤防弹衣 (几乎全新)",
           "price": 90970,
           "type": "护甲"
         },
         {
-          "name": "GA野战背包",
-          "price": 23250,
+          "name": "运动背包",
+          "price": 3796,
           "type": "背包"
         },
         {
@@ -600,8 +620,8 @@
           "type": "胸挂"
         },
         {
-          "name": "沙漠之鹰",
-          "price": 14590,
+          "name": "M1911",
+          "price": 10930,
           "type": "手枪"
         }
       ],
@@ -609,16 +629,21 @@
     },
     {
       "name": "枪械优先",
-      "cost": 682330,
-      "value": 780266,
+      "cost": 687720,
+      "value": 780532,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-21T06:30:52.000Z",
+      "sourceTime": "2026-11-21T06:59:52.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
         },
         {
           "name": "UR特种战术枪托",
@@ -647,8 +672,13 @@
         },
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪2"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪2-瞄具"
         },
         {
           "name": "UR特种战术枪托",
@@ -676,18 +706,99 @@
           "type": "枪2-枪口"
         },
         {
-          "name": "安保头盔",
-          "price": 1948,
+          "name": "防暴头盔 (破损)",
+          "price": 12774,
           "type": "头盔"
         },
         {
-          "name": "HMP特勤防弹衣 (几乎全新)",
-          "price": 90970,
+          "name": "安保防弹衣 (破损)",
+          "price": 1679,
           "type": "护甲"
         },
         {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "简易携行弹挂",
+          "price": 3915,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10930,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 692567,
+      "value": 780244,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-21T06:59:52.000Z",
+      "items": [
+        {
+          "name": "SCAR-H战斗步枪",
+          "price": 99320,
+          "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "UR特种战术枪托",
+          "price": 49915,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "SCARH 30发弹匣",
+          "price": 27977,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "射手D-2后握把",
+          "price": 10890,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 80323,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "SCAR-H战斗步枪",
+          "price": 99320,
+          "type": "枪2"
+        },
+        {
+          "name": "SCARH 30发弹匣",
+          "price": 27977,
+          "type": "枪械2-弹匣"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪械2-前握把"
+        },
+        {
+          "name": "MC防弹头盔 (几乎全新)",
+          "price": 9348,
+          "type": "头盔"
+        },
+        {
+          "name": "MK-2战术背心",
+          "price": 181666,
+          "type": "护甲"
+        },
+        {
+          "name": "DASH战术背包",
+          "price": 15156,
           "type": "背包"
         },
         {
@@ -699,98 +810,22 @@
       "source": "准星工具站"
     },
     {
-      "name": "均衡套装",
-      "cost": 684836,
-      "value": 780807,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-21T06:30:52.000Z",
-      "items": [
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪1"
-        },
-        {
-          "name": "UR特种战术枪托",
-          "price": 49915,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "射手D-2后握把",
-          "price": 10890,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 80323,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "SCAR-H战斗步枪",
-          "price": 96310,
-          "type": "枪2"
-        },
-        {
-          "name": "SCARH 30发弹匣",
-          "price": 27977,
-          "type": "枪械2-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪械2-前握把"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 80323,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "防暴头盔 (破损)",
-          "price": 12774,
-          "type": "头盔"
-        },
-        {
-          "name": "HMP特勤防弹衣 (几乎全新)",
-          "price": 90970,
-          "type": "护甲"
-        },
-        {
-          "name": "帆布背囊",
-          "price": 4962,
-          "type": "背包"
-        },
-        {
-          "name": "突击者战术背心",
-          "price": 56311,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
       "name": "胸挂优先",
-      "cost": 699829,
-      "value": 780694,
+      "cost": 711060,
+      "value": 780256,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-21T06:30:52.000Z",
+      "sourceTime": "2026-11-21T06:59:52.000Z",
       "items": [
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪1"
+        },
+        {
+          "name": "LPVO多倍率战斗瞄具",
+          "price": 35889,
+          "type": "枪1-瞄具"
         },
         {
           "name": "UR特种战术枪托",
@@ -819,18 +854,13 @@
         },
         {
           "name": "SCAR-H战斗步枪",
-          "price": 96310,
+          "price": 99320,
           "type": "枪2"
         },
         {
           "name": "SCARH 30发弹匣",
           "price": 27977,
           "type": "枪械2-弹匣"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪械2-前握把"
         },
         {
           "name": "防暴头盔 (破损)",
@@ -843,8 +873,8 @@
           "type": "护甲"
         },
         {
-          "name": "DASH战术背包",
-          "price": 15156,
+          "name": "战术快拆背包",
+          "price": 9375,
           "type": "背包"
         },
         {
@@ -1013,21 +1043,21 @@
       "source": "准星工具站"
     },
     {
-      "name": "AN94突击步枪",
-      "station": "技术中心",
-      "profit": 42399,
-      "hourly": 1766,
-      "hours": 24,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "M7实用消音器",
       "station": "技术中心",
       "profit": 12365,
       "hourly": 1766,
       "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "AN94突击步枪",
+      "station": "技术中心",
+      "profit": 42399,
+      "hourly": 1766,
+      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2503,16 +2533,6 @@
       "source": "准星工具站"
     },
     {
-      "name": ".50 BMG M903 SLAP",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": ".50 BMG M10 RAZOR",
       "station": "工作台",
       "profit": 0,
@@ -2524,6 +2544,16 @@
     },
     {
       "name": "6.8x51mm AP",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".50 BMG M903 SLAP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2553,7 +2583,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "7.62x51mm M61",
+      "name": ".338 Lap Mag AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2563,7 +2593,7 @@
       "source": "准星工具站"
     },
     {
-      "name": ".338 Lap Mag AP",
+      "name": "7.62x51mm M61",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -3053,26 +3083,6 @@
       "source": "准星工具站"
     },
     {
-      "name": "H70 夜视精英头盔",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "D7战术背包",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "特里克MAS2.0装甲",
       "station": "防具台",
       "profit": 0,
@@ -3093,7 +3103,37 @@
       "source": "准星工具站"
     },
     {
-      "name": "金刚防弹衣",
+      "name": "GT5 指挥官头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "H70 夜视精英头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "D7战术背包",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "GTO重型战术包",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3113,17 +3153,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "GT5 指挥官头盔",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "GTO重型战术包",
+      "name": "金刚防弹衣",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
