@@ -3,15 +3,15 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-24T08:31:30.492Z",
+  "fetchedAt": "2026-11-24T09:01:39.155Z",
   "builds": [
     {
       "name": "均衡套装",
-      "cost": 96175,
-      "value": 113043,
+      "cost": 96326,
+      "value": 112701,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-24T08:29:43.000Z",
+      "sourceTime": "2026-11-24T09:00:43.000Z",
       "items": [
         {
           "name": "SR-3M紧凑突击步枪",
@@ -19,13 +19,18 @@
           "type": "枪械1"
         },
         {
-          "name": "斜挎包",
-          "price": 2750,
+          "name": "奔尼帽",
+          "price": 2167,
+          "type": "头盔"
+        },
+        {
+          "name": "运动背包",
+          "price": 3796,
           "type": "背包"
         },
         {
-          "name": "DSA战术胸挂",
-          "price": 4992,
+          "name": "快速侦察胸挂",
+          "price": 1930,
           "type": "胸挂"
         },
         {
@@ -42,7 +47,7 @@
       "value": 112709,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-24T08:29:43.000Z",
+      "sourceTime": "2026-11-24T09:00:43.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -78,7 +83,7 @@
       "value": 113282,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-24T08:29:43.000Z",
+      "sourceTime": "2026-11-24T09:00:43.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -104,7 +109,7 @@
       "value": 187611,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-24T08:29:44.000Z",
+      "sourceTime": "2026-11-24T09:00:44.000Z",
       "items": [
         {
           "name": "AKM突击步枪",
@@ -131,57 +136,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 163247,
-      "value": 187836,
+      "cost": 164027,
+      "value": 187725,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-24T08:29:44.000Z",
-      "items": [
-        {
-          "name": "P90冲锋枪",
-          "price": 57905,
-          "type": "枪械1"
-        },
-        {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪械1-枪管"
-        },
-        {
-          "name": "Osight微型瞄准镜",
-          "price": 20537,
-          "type": "枪械1-瞄具"
-        },
-        {
-          "name": "复古摩托头盔 (破损)",
-          "price": 5549,
-          "type": "头盔"
-        },
-        {
-          "name": "雨林猎手背包",
-          "price": 19665,
-          "type": "背包"
-        },
-        {
-          "name": "DSA战术胸挂",
-          "price": 4992,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 9710,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 164520,
-      "value": 187732,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-24T08:29:44.000Z",
+      "sourceTime": "2026-11-24T09:00:44.000Z",
       "items": [
         {
           "name": "MP5冲锋枪",
@@ -199,18 +158,59 @@
           "type": "枪械1-枪口"
         },
         {
-          "name": "奔尼帽 (几乎全新)",
-          "price": 1843,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4664,
           "type": "头盔"
         },
         {
-          "name": "安保防弹衣 (破损)",
-          "price": 1679,
+          "name": "野战徒步背包",
+          "price": 32565,
+          "type": "背包"
+        },
+        {
+          "name": "DSA战术胸挂",
+          "price": 4992,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "胸挂优先",
+      "cost": 164248,
+      "value": 187971,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-24T09:00:44.000Z",
+      "items": [
+        {
+          "name": "MP5冲锋枪",
+          "price": 38432,
+          "type": "枪械1"
+        },
+        {
+          "name": "MP5 50发弹鼓",
+          "price": 31913,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "冲锋枪回声消音器",
+          "price": 51461,
+          "type": "枪械1-枪口"
+        },
+        {
+          "name": "复古摩托头盔 (破损)",
+          "price": 4664,
+          "type": "头盔"
+        },
+        {
+          "name": "尼龙防弹衣",
+          "price": 3095,
           "type": "护甲"
         },
         {
-          "name": "雨林猎手背包",
-          "price": 19665,
+          "name": "DASH战术背包",
+          "price": 15156,
           "type": "背包"
         },
         {
@@ -228,11 +228,11 @@
     },
     {
       "name": "枪械优先",
-      "cost": 488289,
-      "value": 550410,
+      "cost": 490795,
+      "value": 550986,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-24T08:29:10.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -251,7 +251,7 @@
         },
         {
           "name": "P90猎豹重枪管",
-          "price": 44889,
+          "price": 46174,
           "type": "枪1-枪管"
         },
         {
@@ -271,18 +271,18 @@
         },
         {
           "name": "P90猎豹重枪管",
-          "price": 44889,
+          "price": 46174,
           "type": "枪械2-枪管"
         },
         {
-          "name": "老式钢盔 (破损)",
-          "price": 1147,
+          "name": "复古摩托头盔 (破损)",
+          "price": 4664,
           "type": "头盔"
         },
         {
-          "name": "DSA战术胸挂",
-          "price": 4992,
-          "type": "胸挂"
+          "name": "摩托马甲 (破损)",
+          "price": 1411,
+          "type": "护甲"
         },
         {
           "name": "M1911",
@@ -294,11 +294,11 @@
     },
     {
       "name": "均衡套装",
-      "cost": 501131,
+      "cost": 502416,
       "value": 550796,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-24T08:29:10.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -317,7 +317,7 @@
         },
         {
           "name": "P90猎豹重枪管",
-          "price": 44889,
+          "price": 46174,
           "type": "枪1-枪管"
         },
         {
@@ -355,61 +355,36 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 517271,
-      "value": 550456,
+      "cost": 518185,
+      "value": 550262,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-24T08:29:10.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
-          "name": "QBZ95-1突击步枪",
-          "price": 38843,
+          "name": "P90冲锋枪",
+          "price": 57905,
           "type": "枪1"
         },
         {
-          "name": "薪火螺旋消焰器",
-          "price": 19774,
+          "name": "冲锋枪回声消音器",
+          "price": 51461,
           "type": "枪1-枪口"
         },
         {
-          "name": "QBZ95-1长弓枪管组合",
-          "price": 13189,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "黎明三角手电握把",
-          "price": 26678,
+          "name": "RK-0前握把",
+          "price": 24897,
           "type": "枪1-前握把"
         },
         {
-          "name": "5.8新式60发弹鼓",
-          "price": 42074,
-          "type": "枪1-弹匣"
+          "name": "P90猎豹重枪管",
+          "price": 46174,
+          "type": "枪1-枪管"
         },
         {
-          "name": "QBZ95-1突击步枪",
-          "price": 38843,
-          "type": "枪2"
-        },
-        {
-          "name": "薪火螺旋消焰器",
-          "price": 19774,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "QBZ95-1长弓枪管组合",
-          "price": 13189,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "黎明三角手电握把",
-          "price": 26678,
-          "type": "枪2-前握把"
-        },
-        {
-          "name": "5.8新式60发弹鼓",
-          "price": 42074,
-          "type": "枪2-弹匣"
+          "name": "先进白热成像战斗瞄准镜",
+          "price": 139033,
+          "type": "枪1-瞄具"
         },
         {
           "name": "D6 战术头盔",
@@ -417,8 +392,8 @@
           "type": "头盔"
         },
         {
-          "name": "TG-H防弹衣",
-          "price": 48389,
+          "name": "TG战术防弹衣",
+          "price": 10949,
           "type": "护甲"
         },
         {
@@ -441,15 +416,15 @@
     },
     {
       "name": "枪械优先",
-      "cost": 535035,
-      "value": 600264,
+      "cost": 537280,
+      "value": 600256,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-24T08:29:11.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
-          "name": "P90冲锋枪",
-          "price": 57905,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 78723,
           "type": "枪1"
         },
         {
@@ -458,14 +433,14 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
+          "name": "AK镂空握把",
+          "price": 85639,
+          "type": "枪1-后握把"
         },
         {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪1-枪管"
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪1-枪托"
         },
         {
           "name": "先进白热成像战斗瞄准镜",
@@ -473,8 +448,8 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "P90冲锋枪",
-          "price": 57905,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 78723,
           "type": "枪2"
         },
         {
@@ -483,30 +458,25 @@
           "type": "枪械2-枪口"
         },
         {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪械2-枪管"
+          "name": "摩托马甲 (几乎全新)",
+          "price": 1716,
+          "type": "护甲"
         },
         {
-          "name": "ALS背负系统",
-          "price": 58830,
-          "type": "背包"
-        },
-        {
-          "name": "D01轻型胸挂",
-          "price": 3765,
-          "type": "胸挂"
+          "name": "M1911",
+          "price": 9710,
+          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "均衡套装",
-      "cost": 541701,
+      "cost": 542986,
       "value": 600527,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-24T08:29:11.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
           "name": "P90冲锋枪",
@@ -525,7 +495,7 @@
         },
         {
           "name": "P90猎豹重枪管",
-          "price": 44889,
+          "price": 46174,
           "type": "枪1-枪管"
         },
         {
@@ -568,75 +538,60 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 566479,
-      "value": 600211,
+      "cost": 567790,
+      "value": 600755,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-24T08:29:11.000Z",
+      "sourceTime": "2026-11-24T09:00:48.000Z",
       "items": [
         {
-          "name": "QBZ95-1突击步枪",
-          "price": 38843,
+          "name": "MP5冲锋枪",
+          "price": 38432,
           "type": "枪1"
         },
         {
-          "name": "薪火螺旋消焰器",
-          "price": 19774,
+          "name": "冲锋枪回声消音器",
+          "price": 51461,
           "type": "枪1-枪口"
         },
         {
-          "name": "QBZ95-1长弓枪管组合",
-          "price": 13189,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "黎明三角手电握把",
-          "price": 26678,
+          "name": "RK-0前握把",
+          "price": 24897,
           "type": "枪1-前握把"
         },
         {
-          "name": "5.8新式60发弹鼓",
-          "price": 42074,
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "MP5斥候长枪管组合",
+          "price": 19895,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "MP5 50发弹鼓",
+          "price": 31913,
           "type": "枪1-弹匣"
         },
         {
-          "name": "QBZ95-1突击步枪",
-          "price": 38843,
-          "type": "枪2"
+          "name": "先进白热成像战斗瞄准镜",
+          "price": 139033,
+          "type": "枪1-瞄具"
         },
         {
-          "name": "薪火螺旋消焰器",
-          "price": 19774,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "QBZ95-1长弓枪管组合",
-          "price": 13189,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "黎明三角手电握把",
-          "price": 26678,
-          "type": "枪2-前握把"
-        },
-        {
-          "name": "5.8新式60发弹鼓",
-          "price": 42074,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "Mask-1铁壁头盔",
-          "price": 127429,
+          "name": "D6 战术头盔",
+          "price": 48463,
           "type": "头盔"
         },
         {
-          "name": "摩托马甲 (几乎全新)",
-          "price": 1716,
+          "name": "制式防弹背心",
+          "price": 33579,
           "type": "护甲"
         },
         {
-          "name": "雨林猎手背包",
-          "price": 19665,
+          "name": "斜挎包",
+          "price": 2750,
           "type": "背包"
         },
         {
@@ -654,15 +609,15 @@
     },
     {
       "name": "枪械优先",
-      "cost": 706343,
-      "value": 780205,
+      "cost": 704932,
+      "value": 780339,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-24T08:29:14.000Z",
+      "sourceTime": "2026-11-24T09:00:52.000Z",
       "items": [
         {
-          "name": "P90冲锋枪",
-          "price": 57905,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 78723,
           "type": "枪1"
         },
         {
@@ -671,95 +626,14 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
+          "name": "AK镂空握把",
+          "price": 85639,
+          "type": "枪1-后握把"
         },
         {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "先进白热成像战斗瞄准镜",
-          "price": 139033,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "P90冲锋枪",
-          "price": 57905,
-          "type": "枪2"
-        },
-        {
-          "name": "冲锋枪回声消音器",
-          "price": 51461,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪2-前握把"
-        },
-        {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "先进白热成像战斗瞄准镜",
-          "price": 139033,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "复古摩托头盔 (破损)",
-          "price": 5549,
-          "type": "头盔"
-        },
-        {
-          "name": "安保防弹衣 (破损)",
-          "price": 1679,
-          "type": "护甲"
-        },
-        {
-          "name": "ALS背负系统",
-          "price": 58830,
-          "type": "背包"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 716272,
-      "value": 780444,
-      "threshold": 780000,
-      "lv": "5",
-      "sourceTime": "2026-11-24T08:29:14.000Z",
-      "items": [
-        {
-          "name": "P90冲锋枪",
-          "price": 57905,
-          "type": "枪1"
-        },
-        {
-          "name": "冲锋枪回声消音器",
-          "price": 51461,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "RK-0前握把",
-          "price": 24897,
-          "type": "枪1-前握把"
-        },
-        {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪1-枪管"
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪1-枪托"
         },
         {
           "name": "先进白热成像战斗瞄准镜",
@@ -767,8 +641,8 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "P90冲锋枪",
-          "price": 57905,
+          "name": "SR-3M紧凑突击步枪",
+          "price": 78723,
           "type": "枪2"
         },
         {
@@ -777,18 +651,114 @@
           "type": "枪械2-枪口"
         },
         {
-          "name": "P90猎豹重枪管",
-          "price": 44889,
-          "type": "枪械2-枪管"
+          "name": "AK镂空握把",
+          "price": 85639,
+          "type": "枪械2-后握把"
         },
         {
-          "name": "GT1 战术头盔",
-          "price": 134326,
+          "name": "D6 战术头盔",
+          "price": 48463,
           "type": "头盔"
         },
         {
-          "name": "生存战术背包",
-          "price": 52170,
+          "name": "简易防刺服",
+          "price": 6926,
+          "type": "护甲"
+        },
+        {
+          "name": "MAP侦察背包",
+          "price": 33058,
+          "type": "背包"
+        },
+        {
+          "name": "DSA战术胸挂",
+          "price": 4992,
+          "type": "胸挂"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 712027,
+      "value": 781152,
+      "threshold": 780000,
+      "lv": "5",
+      "sourceTime": "2026-11-24T09:00:52.000Z",
+      "items": [
+        {
+          "name": "SVCH精确射手步枪",
+          "price": 67628,
+          "type": "枪1"
+        },
+        {
+          "name": "薪火螺旋消焰器",
+          "price": 19774,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "灵眼6/12弹道计算狙击镜",
+          "price": 79502,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "SVCH碳纤长枪管",
+          "price": 37427,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "SVCH精确射手步枪",
+          "price": 67628,
+          "type": "枪2"
+        },
+        {
+          "name": "薪火螺旋消焰器",
+          "price": 19774,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "灵眼6/12弹道计算狙击镜",
+          "price": 79502,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪2-前握把"
+        },
+        {
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪2-枪托"
+        },
+        {
+          "name": "SVCH碳纤长枪管",
+          "price": 37427,
+          "type": "枪2-枪管"
+        },
+        {
+          "name": "D6 战术头盔",
+          "price": 48463,
+          "type": "头盔"
+        },
+        {
+          "name": "制式防弹背心",
+          "price": 33579,
+          "type": "护甲"
+        },
+        {
+          "name": "野战徒步背包",
+          "price": 32565,
           "type": "背包"
         },
         {
@@ -801,50 +771,70 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 727794,
-      "value": 780653,
+      "cost": 725364,
+      "value": 781641,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-24T08:29:14.000Z",
+      "sourceTime": "2026-11-24T09:00:52.000Z",
       "items": [
         {
-          "name": "PKM通用机枪",
-          "price": 97273,
+          "name": "SVCH精确射手步枪",
+          "price": 67628,
           "type": "枪1"
         },
         {
-          "name": "DTK制退器",
-          "price": 20477,
+          "name": "薪火螺旋消焰器",
+          "price": 19774,
           "type": "枪1-枪口"
         },
         {
-          "name": "PKM泽宁特枪托",
-          "price": 38349,
-          "type": "枪1-枪托"
-        },
-        {
-          "name": "先进白热成像战斗瞄准镜",
-          "price": 139033,
+          "name": "灵眼6/12弹道计算狙击镜",
+          "price": 79502,
           "type": "枪1-瞄具"
         },
         {
-          "name": "PKM通用机枪",
-          "price": 97273,
+          "name": "RK-0前握把",
+          "price": 24897,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "MRGS镂空枪托",
+          "price": 40814,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "SVCH碳纤长枪管",
+          "price": 37427,
+          "type": "枪1-枪管"
+        },
+        {
+          "name": "SVCH精确射手步枪",
+          "price": 67628,
           "type": "枪2"
         },
         {
-          "name": "PKM泽宁特枪托",
-          "price": 38349,
-          "type": "枪械2-枪托"
+          "name": "灵眼6/12弹道计算狙击镜",
+          "price": 79502,
+          "type": "枪械2-瞄具"
         },
         {
-          "name": "Mask-1铁壁头盔",
-          "price": 127429,
+          "name": "SVCH碳纤长枪管",
+          "price": 37427,
+          "type": "枪械2-枪管"
+        },
+        {
+          "name": "D6 战术头盔",
+          "price": 48463,
           "type": "头盔"
         },
         {
-          "name": "MAP侦察背包",
-          "price": 33058,
+          "name": "制式防弹背心",
+          "price": 33579,
+          "type": "护甲"
+        },
+        {
+          "name": "生存战术背包",
+          "price": 52170,
           "type": "背包"
         },
         {
@@ -1303,21 +1293,21 @@
       "source": "准星工具站"
     },
     {
-      "name": "先进多口径消音器",
-      "station": "技术中心",
-      "profit": 817,
-      "hourly": 116,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "微型红点瞄准镜",
       "station": "技术中心",
       "profit": 699,
       "hourly": 116,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "先进多口径消音器",
+      "station": "技术中心",
+      "profit": 817,
+      "hourly": 116,
+      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2463,7 +2453,27 @@
       "source": "准星工具站"
     },
     {
-      "name": ".50 BMG M10 RAZOR",
+      "name": "7.62x54R SNB",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "6.8x51mm AP",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".338 Lap Mag AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2493,7 +2503,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "7.62x54R SNB",
+      "name": ".50 BMG M10 RAZOR",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -2504,26 +2514,6 @@
     },
     {
       "name": ".50 BMG M3 K-0",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "6.8x51mm AP",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".338 Lap Mag AP",
       "station": "工作台",
       "profit": 0,
       "hourly": 0,
@@ -3053,27 +3043,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "DICH-9重型头盔",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "金刚防弹衣",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "泰坦防弹装甲",
+      "name": "GT5 指挥官头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3093,6 +3063,26 @@
       "source": "准星工具站"
     },
     {
+      "name": "泰坦防弹装甲",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "H70 夜视精英头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": "D7战术背包",
       "station": "防具台",
       "profit": 0,
@@ -3103,7 +3093,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "GT5 指挥官头盔",
+      "name": "金刚防弹衣",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3123,7 +3113,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "H70 夜视精英头盔",
+      "name": "DICH-9重型头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
