@@ -3,24 +3,24 @@
   "provider": "zxfps",
   "source": "准星工具站",
   "sourceURL": "https://tool.zxfps.com",
-  "fetchedAt": "2026-11-27T15:01:38.896Z",
+  "fetchedAt": "2026-11-27T15:31:30.634Z",
   "builds": [
     {
       "name": "均衡套装",
-      "cost": 103771,
-      "value": 112829,
+      "cost": 101873,
+      "value": 112867,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
       "items": [
         {
-          "name": "AKS-74U突击步枪",
-          "price": 12068,
+          "name": "野牛冲锋枪",
+          "price": 12104,
           "type": "枪械1"
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪械1-后握把"
         },
         {
@@ -29,18 +29,23 @@
           "type": "枪械1-枪口"
         },
         {
-          "name": "防暴头盔 (破损)",
-          "price": 12164,
+          "name": "野牛 64发弹筒",
+          "price": 8768,
+          "type": "枪械1-弹匣"
+        },
+        {
+          "name": "老式钢盔 (几乎全新)",
+          "price": 1389,
           "type": "头盔"
         },
         {
-          "name": "运动背包",
-          "price": 3796,
+          "name": "DG运动背包",
+          "price": 6128,
           "type": "背包"
         },
         {
-          "name": "HD3战术胸挂",
-          "price": 4394,
+          "name": "简易携行弹挂",
+          "price": 3915,
           "type": "胸挂"
         },
         {
@@ -53,11 +58,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 104549,
+      "cost": 102769,
       "value": 112732,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
       "items": [
         {
           "name": "AKS-74U突击步枪",
@@ -66,7 +71,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪械1-后握把"
         },
         {
@@ -104,11 +109,11 @@
     },
     {
       "name": "枪械优先",
-      "cost": 105088,
-      "value": 112514,
+      "cost": 103327,
+      "value": 112618,
       "threshold": 112500,
       "lv": "0",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
       "items": [
         {
           "name": "AKS-74U突击步枪",
@@ -132,12 +137,53 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪1-后握把"
         },
         {
-          "name": "AK骨架枪托",
-          "price": 3524,
+          "name": "实用稳定枪托",
+          "price": 3543,
+          "type": "枪1-枪托"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 171966,
+      "value": 187834,
+      "threshold": 187500,
+      "lv": "1",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪1"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 67828,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "AK重塔握把",
+          "price": 38235,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "1p-29俄制3倍瞄准镜",
+          "price": 24435,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "实用稳定枪托",
+          "price": 3543,
           "type": "枪1-枪托"
         }
       ],
@@ -145,26 +191,26 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 174288,
-      "value": 187714,
+      "cost": 172472,
+      "value": 187777,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪械1"
+        },
+        {
+          "name": "AK重塔握把",
+          "price": 38235,
+          "type": "枪械1-后握把"
         },
         {
           "name": "轻语战术消音器",
           "price": 67828,
           "type": "枪械1-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪械1-后握把"
         },
         {
           "name": "防暴头盔 (破损)",
@@ -195,73 +241,27 @@
       "source": "准星工具站"
     },
     {
-      "name": "枪械优先",
-      "cost": 175047,
-      "value": 187936,
+      "name": "均衡套装",
+      "cost": 175616,
+      "value": 187834,
       "threshold": 187500,
       "lv": "1",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
+      "sourceTime": "2026-11-27T15:29:06.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪1-枪口"
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪械1"
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "AK骨架枪托",
-          "price": 3524,
-          "type": "枪1-枪托"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "均衡套装",
-      "cost": 177432,
-      "value": 187771,
-      "threshold": 187500,
-      "lv": "1",
-      "sourceTime": "2026-11-27T15:00:44.000Z",
-      "items": [
-        {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪械1"
+          "price": 38235,
+          "type": "枪械1-后握把"
         },
         {
           "name": "轻语战术消音器",
           "price": 67828,
           "type": "枪械1-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪械1-后握把"
         },
         {
           "name": "H07 战术头盔",
@@ -288,25 +288,30 @@
     },
     {
       "name": "枪械优先",
-      "cost": 531733,
-      "value": 551109,
+      "cost": 509337,
+      "value": 550398,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-27T15:00:50.000Z",
+      "sourceTime": "2026-11-27T15:29:10.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
         },
         {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
           "type": "枪1-弹匣"
         },
         {
@@ -315,28 +320,33 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪2-前握把"
         },
         {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪2-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
           "type": "枪2-弹匣"
         },
         {
@@ -345,18 +355,99 @@
           "type": "枪2-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪2-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
           "type": "枪2-瞄具"
         },
         {
-          "name": "D6 战术头盔",
-          "price": 55923,
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪2-护木"
+        },
+        {
+          "name": "DRO 战术头盔",
+          "price": 8352,
+          "type": "头盔"
+        },
+        {
+          "name": "尼龙防弹衣 (几乎全新)",
+          "price": 2624,
+          "type": "护甲"
+        },
+        {
+          "name": "雨林猎手背包",
+          "price": 19665,
+          "type": "背包"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "均衡套装",
+      "cost": 521056,
+      "value": 550272,
+      "threshold": 550000,
+      "lv": "2",
+      "sourceTime": "2026-11-27T15:29:10.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪1"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 67828,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪2"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪械2-后握把"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 67828,
+          "type": "枪械2-枪口"
+        },
+        {
+          "name": "DAS 防弹头盔",
+          "price": 40956,
           "type": "头盔"
         },
         {
@@ -365,13 +456,13 @@
           "type": "护甲"
         },
         {
-          "name": "ALS背负系统",
-          "price": 65190,
+          "name": "雨林猎手背包",
+          "price": 19665,
           "type": "背包"
         },
         {
-          "name": "G01战术弹挂",
-          "price": 10157,
+          "name": "通用战术胸挂",
+          "price": 5080,
           "type": "胸挂"
         }
       ],
@@ -379,11 +470,11 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 532356,
-      "value": 550750,
+      "cost": 531964,
+      "value": 550800,
       "threshold": 550000,
       "lv": "2",
-      "sourceTime": "2026-11-27T15:00:50.000Z",
+      "sourceTime": "2026-11-27T15:29:10.000Z",
       "items": [
         {
           "name": "野牛冲锋枪",
@@ -391,9 +482,14 @@
           "type": "枪1"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
+          "name": "侵掠核心枪托",
+          "price": 20632,
+          "type": "枪1-枪托"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
         },
         {
           "name": "野牛 64发弹筒",
@@ -406,11 +502,6 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
           "name": "1p-29俄制3倍瞄准镜",
           "price": 24435,
           "type": "枪1-瞄具"
@@ -421,23 +512,119 @@
           "type": "枪2"
         },
         {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪械2-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
+          "name": "AK镂空握把",
+          "price": 83854,
           "type": "枪械2-后握把"
         },
         {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪械2-瞄具"
+          "name": "MC防弹头盔",
+          "price": 11498,
+          "type": "头盔"
         },
         {
-          "name": "D6 战术头盔",
-          "price": 55923,
+          "name": "TG-H防弹衣",
+          "price": 50059,
+          "type": "护甲"
+        },
+        {
+          "name": "雨林猎手背包",
+          "price": 19665,
+          "type": "背包"
+        },
+        {
+          "name": "GIR野战胸挂",
+          "price": 126843,
+          "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
+        }
+      ],
+      "source": "准星工具站"
+    },
+    {
+      "name": "枪械优先",
+      "cost": 563213,
+      "value": 600321,
+      "threshold": 600000,
+      "lv": "3",
+      "sourceTime": "2026-11-27T15:29:11.000Z",
+      "items": [
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪1"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪1-弹匣"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 67828,
+          "type": "枪1-枪口"
+        },
+        {
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
+          "type": "枪1-瞄具"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
+          "type": "枪2"
+        },
+        {
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪2-前握把"
+        },
+        {
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪2-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
+          "type": "枪2-弹匣"
+        },
+        {
+          "name": "轻语战术消音器",
+          "price": 67828,
+          "type": "枪2-枪口"
+        },
+        {
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
+          "type": "枪2-瞄具"
+        },
+        {
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪2-护木"
+        },
+        {
+          "name": "H07 战术头盔",
+          "price": 25947,
           "type": "头盔"
         },
         {
@@ -446,135 +633,39 @@
           "type": "护甲"
         },
         {
-          "name": "雨林猎手背包",
-          "price": 19665,
+          "name": "ALS背负系统",
+          "price": 65190,
           "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 126843,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "均衡套装",
-      "cost": 533605,
-      "value": 550523,
-      "threshold": 550000,
-      "lv": "2",
-      "sourceTime": "2026-11-27T15:00:50.000Z",
-      "items": [
-        {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪2"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪2-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "DAS 防弹头盔",
-          "price": 40956,
-          "type": "头盔"
-        },
-        {
-          "name": "尼龙防弹衣",
-          "price": 3095,
-          "type": "护甲"
-        },
-        {
-          "name": "雨林猎手背包",
-          "price": 19665,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 126843,
-          "type": "胸挂"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "胸挂优先",
-      "cost": 583238,
-      "value": 600758,
+      "cost": 569923,
+      "value": 600203,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-27T15:00:51.000Z",
+      "sourceTime": "2026-11-27T15:29:11.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
         },
         {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
           "type": "枪1-弹匣"
         },
         {
@@ -583,140 +674,34 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪械2-后握把"
         },
         {
           "name": "轻语战术消音器",
           "price": 67828,
-          "type": "枪2-枪口"
+          "type": "枪械2-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪2-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "H07 战术头盔",
-          "price": 25947,
-          "type": "头盔"
-        },
-        {
-          "name": "射手战术背心",
-          "price": 57417,
-          "type": "护甲"
-        },
-        {
-          "name": "雨林猎手背包",
-          "price": 19665,
-          "type": "背包"
-        },
-        {
-          "name": "GIR野战胸挂",
-          "price": 126843,
-          "type": "胸挂"
-        },
-        {
-          "name": "M1911",
-          "price": 10320,
-          "type": "手枪"
-        }
-      ],
-      "source": "准星工具站"
-    },
-    {
-      "name": "枪械优先",
-      "cost": 583701,
-      "value": 600657,
-      "threshold": 600000,
-      "lv": "3",
-      "sourceTime": "2026-11-27T15:00:51.000Z",
-      "items": [
-        {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪1-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪1-瞄具"
-        },
-        {
-          "name": "野牛冲锋枪",
-          "price": 12104,
-          "type": "枪2"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪2-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪2-瞄具"
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪械2-前握把"
         },
         {
           "name": "Mask-1铁壁头盔",
@@ -724,44 +709,49 @@
           "type": "头盔"
         },
         {
-          "name": "通用战术背心",
-          "price": 14591,
+          "name": "摩托马甲",
+          "price": 2115,
           "type": "护甲"
         },
         {
-          "name": "HLS-2重型背包",
-          "price": 85280,
+          "name": "斜挎包",
+          "price": 2750,
           "type": "背包"
         },
         {
-          "name": "简易携行弹挂",
-          "price": 3915,
+          "name": "HD3战术胸挂",
+          "price": 4394,
           "type": "胸挂"
         }
       ],
       "source": "准星工具站"
     },
     {
-      "name": "均衡套装",
-      "cost": 587927,
-      "value": 601445,
+      "name": "胸挂优先",
+      "cost": 585228,
+      "value": 600508,
       "threshold": 600000,
       "lv": "3",
-      "sourceTime": "2026-11-27T15:00:51.000Z",
+      "sourceTime": "2026-11-27T15:29:11.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
+          "name": "RK-0前握把",
+          "price": 25857,
+          "type": "枪1-前握把"
         },
         {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪1-后握把"
+        },
+        {
+          "name": "AKS-74U延长弹匣45发",
+          "price": 24913,
           "type": "枪1-弹匣"
         },
         {
@@ -770,48 +760,28 @@
           "type": "枪1-枪口"
         },
         {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪1-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
+          "name": "PSO狙击8倍瞄准镜",
+          "price": 11996,
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS74U导轨下护木",
+          "price": 7672,
+          "type": "枪1-护木"
+        },
+        {
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
         },
         {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
+          "name": "AK镂空握把",
+          "price": 83854,
+          "type": "枪械2-后握把"
         },
         {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
-        },
-        {
-          "name": "轻语战术消音器",
-          "price": 67828,
-          "type": "枪2-枪口"
-        },
-        {
-          "name": "AK重塔握把",
-          "price": 40015,
-          "type": "枪2-后握把"
-        },
-        {
-          "name": "1p-29俄制3倍瞄准镜",
-          "price": 24435,
-          "type": "枪2-瞄具"
-        },
-        {
-          "name": "DAS 防弹头盔",
-          "price": 40956,
+          "name": "D6 战术头盔",
+          "price": 57788,
           "type": "头盔"
         },
         {
@@ -820,40 +790,35 @@
           "type": "护甲"
         },
         {
-          "name": "雨林猎手背包",
-          "price": 19665,
+          "name": "斜挎包",
+          "price": 2750,
           "type": "背包"
         },
         {
           "name": "GIR野战胸挂",
           "price": 126843,
           "type": "胸挂"
+        },
+        {
+          "name": "M1911",
+          "price": 10320,
+          "type": "手枪"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "枪械优先",
-      "cost": 745198,
-      "value": 780505,
+      "cost": 748578,
+      "value": 782965,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-27T15:00:53.000Z",
+      "sourceTime": "2026-11-27T15:26:54.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -862,7 +827,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪1-后握把"
         },
         {
@@ -871,19 +836,9 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -892,7 +847,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪2-后握把"
         },
         {
@@ -901,45 +856,25 @@
           "type": "枪2-瞄具"
         },
         {
-          "name": "H07 战术头盔",
-          "price": 25947,
-          "type": "头盔"
-        },
-        {
-          "name": "精英防弹背心",
-          "price": 372290,
+          "name": "重型突击背心",
+          "price": 463446,
           "type": "护甲"
-        },
-        {
-          "name": "简易携行弹挂",
-          "price": 3915,
-          "type": "胸挂"
         }
       ],
       "source": "准星工具站"
     },
     {
       "name": "均衡套装",
-      "cost": 757581,
-      "value": 780216,
+      "cost": 760317,
+      "value": 780723,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-27T15:00:53.000Z",
+      "sourceTime": "2026-11-27T15:26:54.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -948,7 +883,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪1-后握把"
         },
         {
@@ -957,19 +892,9 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -978,7 +903,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪2-后握把"
         },
         {
@@ -997,8 +922,13 @@
           "type": "护甲"
         },
         {
-          "name": "便携胸包",
-          "price": 1930,
+          "name": "GT1户外登山包",
+          "price": 59125,
+          "type": "背包"
+        },
+        {
+          "name": "尼龙挎包",
+          "price": 3455,
           "type": "胸挂"
         }
       ],
@@ -1006,26 +936,16 @@
     },
     {
       "name": "胸挂优先",
-      "cost": 774297,
-      "value": 780204,
+      "cost": 774521,
+      "value": 794561,
       "threshold": 780000,
       "lv": "5",
-      "sourceTime": "2026-11-27T15:00:53.000Z",
+      "sourceTime": "2026-11-27T15:26:54.000Z",
       "items": [
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪1"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪1-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪1-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -1034,7 +954,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪1-后握把"
         },
         {
@@ -1043,19 +963,9 @@
           "type": "枪1-瞄具"
         },
         {
-          "name": "野牛冲锋枪",
-          "price": 12104,
+          "name": "AKS-74U突击步枪",
+          "price": 12068,
           "type": "枪2"
-        },
-        {
-          "name": "野牛刀锋超长枪管",
-          "price": 18373,
-          "type": "枪2-枪管"
-        },
-        {
-          "name": "野牛 64发弹筒",
-          "price": 8768,
-          "type": "枪2-弹匣"
         },
         {
           "name": "轻语战术消音器",
@@ -1064,7 +974,7 @@
         },
         {
           "name": "AK重塔握把",
-          "price": 40015,
+          "price": 38235,
           "type": "枪2-后握把"
         },
         {
@@ -1073,19 +983,9 @@
           "type": "枪2-瞄具"
         },
         {
-          "name": "GN 久战重型夜视头盔",
-          "price": 261428,
+          "name": "H09 防暴头盔",
+          "price": 362546,
           "type": "头盔"
-        },
-        {
-          "name": "轻型防弹衣 (几乎全新)",
-          "price": 3292,
-          "type": "护甲"
-        },
-        {
-          "name": "MAP侦察背包",
-          "price": 39688,
-          "type": "背包"
         },
         {
           "name": "GIR野战胸挂",
@@ -1100,8 +1000,8 @@
     {
       "name": "XCOG突击3.5倍瞄准镜",
       "station": "技术中心",
-      "profit": 19943,
-      "hourly": 3323,
+      "profit": 21249,
+      "hourly": 3541,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1110,8 +1010,8 @@
     {
       "name": "全景红点瞄准镜",
       "station": "技术中心",
-      "profit": 17134,
-      "hourly": 2855,
+      "profit": 17540,
+      "hourly": 2923,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1120,8 +1020,8 @@
     {
       "name": "视点3倍瞄准镜",
       "station": "技术中心",
-      "profit": 17027,
-      "hourly": 2837,
+      "profit": 17486,
+      "hourly": 2914,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1130,8 +1030,8 @@
     {
       "name": "复合弓",
       "station": "技术中心",
-      "profit": 32258,
-      "hourly": 2688,
+      "profit": 34504,
+      "hourly": 2875,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -1140,8 +1040,8 @@
     {
       "name": "骨架狙击枪托",
       "station": "技术中心",
-      "profit": 15781,
-      "hourly": 2630,
+      "profit": 16717,
+      "hourly": 2786,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1150,8 +1050,8 @@
     {
       "name": "微型瞄具增高架",
       "station": "技术中心",
-      "profit": 15304,
-      "hourly": 2550,
+      "profit": 15435,
+      "hourly": 2572,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1160,8 +1060,8 @@
     {
       "name": "多用途战术增高架",
       "station": "技术中心",
-      "profit": 15108,
-      "hourly": 2518,
+      "profit": 15418,
+      "hourly": 2569,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1170,19 +1070,19 @@
     {
       "name": "SVD狙击步枪",
       "station": "技术中心",
-      "profit": 38373,
-      "hourly": 2398,
+      "profit": 40059,
+      "hourly": 2503,
       "hours": 16,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "PSG-1射手步枪",
+      "name": "HVK旋风强化导气",
       "station": "技术中心",
-      "profit": 30777,
-      "hourly": 1923,
-      "hours": 16,
+      "profit": 10425,
+      "hourly": 2316,
+      "hours": 4.5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1190,8 +1090,38 @@
     {
       "name": "Osight微型瞄准镜",
       "station": "技术中心",
-      "profit": 11495,
-      "hourly": 1915,
+      "profit": 13041,
+      "hourly": 2173,
+      "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "灵眼3/7测距狙击瞄准镜",
+      "station": "技术中心",
+      "profit": 12915,
+      "hourly": 2152,
+      "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "PSG-1射手步枪",
+      "station": "技术中心",
+      "profit": 32470,
+      "hourly": 2029,
+      "hours": 16,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "棱镜通用二倍光学瞄具",
+      "station": "技术中心",
+      "profit": 11123,
+      "hourly": 1853,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1200,29 +1130,9 @@
     {
       "name": "轻语战术消音器",
       "station": "技术中心",
-      "profit": 12922,
-      "hourly": 1846,
+      "profit": 12878,
+      "hourly": 1839,
       "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "HVK旋风强化导气",
-      "station": "技术中心",
-      "profit": 7953,
-      "hourly": 1767,
-      "hours": 4.5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "棱镜通用二倍光学瞄具",
-      "station": "技术中心",
-      "profit": 9715,
-      "hourly": 1619,
-      "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1230,8 +1140,8 @@
     {
       "name": "OLIGHT WARRIOR 3S战术手电",
       "station": "技术中心",
-      "profit": 7234,
-      "hourly": 1607,
+      "profit": 7723,
+      "hourly": 1716,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -1240,8 +1150,8 @@
     {
       "name": "AN94突击步枪",
       "station": "技术中心",
-      "profit": 38238,
-      "hourly": 1593,
+      "profit": 40929,
+      "hourly": 1705,
       "hours": 24,
       "level": null,
       "sourceTime": null,
@@ -1250,8 +1160,8 @@
     {
       "name": "闪电导轨枪托",
       "station": "技术中心",
-      "profit": 9431,
-      "hourly": 1571,
+      "profit": 10020,
+      "hourly": 1670,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1260,19 +1170,9 @@
     {
       "name": "M7实用消音器",
       "station": "技术中心",
-      "profit": 10741,
-      "hourly": 1534,
+      "profit": 11486,
+      "hourly": 1640,
       "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "M700狙击步枪",
-      "station": "技术中心",
-      "profit": 36642,
-      "hourly": 1526,
-      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1280,29 +1180,29 @@
     {
       "name": "M4A1突击步枪",
       "station": "技术中心",
-      "profit": 36192,
-      "hourly": 1508,
+      "profit": 39217,
+      "hourly": 1634,
       "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "AUG突击步枪",
+      "name": "M700狙击步枪",
       "station": "技术中心",
-      "profit": 35108,
-      "hourly": 1462,
+      "profit": 39031,
+      "hourly": 1626,
       "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "灵眼3/7测距狙击瞄准镜",
+      "name": "X25U斜侧战斗握把",
       "station": "技术中心",
-      "profit": 8452,
-      "hourly": 1408,
-      "hours": 6,
+      "profit": 6507,
+      "hourly": 1626,
+      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1310,9 +1210,19 @@
     {
       "name": "俄式准直二倍瞄准镜",
       "station": "技术中心",
-      "profit": 8160,
-      "hourly": 1360,
+      "profit": 9111,
+      "hourly": 1518,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "AUG突击步枪",
+      "station": "技术中心",
+      "profit": 35319,
+      "hourly": 1471,
+      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1320,58 +1230,8 @@
     {
       "name": "RM277突击步枪",
       "station": "技术中心",
-      "profit": 32466,
-      "hourly": 1352,
-      "hours": 24,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "SKS射手步枪",
-      "station": "技术中心",
-      "profit": 35017,
-      "hourly": 1094,
-      "hours": 32,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "Cobra准直式瞄准镜",
-      "station": "技术中心",
-      "profit": 5903,
-      "hourly": 983,
-      "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "腾龙突击步枪",
-      "station": "技术中心",
-      "profit": 21540,
-      "hourly": 897,
-      "hours": 24,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "3/7可调倍率狙击镜",
-      "station": "技术中心",
-      "profit": 5381,
-      "hourly": 896,
-      "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "FS-12霰弹枪",
-      "station": "技术中心",
-      "profit": 20597,
-      "hourly": 858,
+      "profit": 34695,
+      "hourly": 1445,
       "hours": 24,
       "level": null,
       "sourceTime": null,
@@ -1380,29 +1240,19 @@
     {
       "name": "QJB201轻机枪",
       "station": "技术中心",
-      "profit": 15796,
-      "hourly": 789,
+      "profit": 26006,
+      "hourly": 1300,
       "hours": 20,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "SCARH战斗步枪",
+      "name": "3/7可调倍率狙击镜",
       "station": "技术中心",
-      "profit": 22601,
-      "hourly": 753,
-      "hours": 30,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "MCX LT突击步枪",
-      "station": "技术中心",
-      "profit": 17115,
-      "hourly": 713,
-      "hours": 24,
+      "profit": 7593,
+      "hourly": 1265,
+      "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1410,9 +1260,59 @@
     {
       "name": "PKM通用机枪",
       "station": "技术中心",
-      "profit": 12835,
-      "hourly": 641,
+      "profit": 23577,
+      "hourly": 1178,
       "hours": 20,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "腾龙突击步枪",
+      "station": "技术中心",
+      "profit": 28170,
+      "hourly": 1173,
+      "hours": 24,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "SKS射手步枪",
+      "station": "技术中心",
+      "profit": 36579,
+      "hourly": 1143,
+      "hours": 32,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "Cobra准直式瞄准镜",
+      "station": "技术中心",
+      "profit": 6525,
+      "hourly": 1087,
+      "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "FS-12霰弹枪",
+      "station": "技术中心",
+      "profit": 24040,
+      "hourly": 1001,
+      "hours": 24,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "SCARH战斗步枪",
+      "station": "技术中心",
+      "profit": 22619,
+      "hourly": 753,
+      "hours": 30,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1420,9 +1320,19 @@
     {
       "name": "QCQ171冲锋枪",
       "station": "技术中心",
-      "profit": 29157,
-      "hourly": 607,
+      "profit": 35424,
+      "hourly": 738,
       "hours": 48,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "MCX LT突击步枪",
+      "station": "技术中心",
+      "profit": 17175,
+      "hourly": 715,
+      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1430,8 +1340,8 @@
     {
       "name": "侧置Osight微型瞄准镜",
       "station": "技术中心",
-      "profit": 3208,
-      "hourly": 534,
+      "profit": 3185,
+      "hourly": 530,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1440,29 +1350,9 @@
     {
       "name": "侧置全景红点瞄准镜",
       "station": "技术中心",
-      "profit": 3005,
-      "hourly": 500,
+      "profit": 2970,
+      "hourly": 495,
       "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "X25U斜侧战斗握把",
-      "station": "技术中心",
-      "profit": 1599,
-      "hourly": 399,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "LA-3C绿色激光镭指",
-      "station": "技术中心",
-      "profit": 1036,
-      "hourly": 230,
-      "hours": 4.5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1470,9 +1360,39 @@
     {
       "name": "SR-3M紧凑突击步枪",
       "station": "技术中心",
-      "profit": 10302,
-      "hourly": 214,
+      "profit": 23283,
+      "hourly": 485,
       "hours": 48,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "ACOG精准六倍镜",
+      "station": "技术中心",
+      "profit": 1378,
+      "hourly": 229,
+      "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "AKM突击步枪",
+      "station": "技术中心",
+      "profit": 5363,
+      "hourly": 223,
+      "hours": 24,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "LA-3C绿色激光镭指",
+      "station": "技术中心",
+      "profit": 968,
+      "hourly": 215,
+      "hours": 4.5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1480,8 +1400,8 @@
     {
       "name": "MK4冲锋枪",
       "station": "技术中心",
-      "profit": 8853,
-      "hourly": 184,
+      "profit": 8818,
+      "hourly": 183,
       "hours": 48,
       "level": null,
       "sourceTime": null,
@@ -1490,8 +1410,8 @@
     {
       "name": "LPVO多倍率战斗瞄具",
       "station": "技术中心",
-      "profit": 1035,
-      "hourly": 172,
+      "profit": 1051,
+      "hourly": 175,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1500,8 +1420,8 @@
     {
       "name": "战斗红点瞄准镜",
       "station": "技术中心",
-      "profit": 943,
-      "hourly": 157,
+      "profit": 923,
+      "hourly": 153,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1510,7 +1430,7 @@
     {
       "name": "微型红点瞄准镜",
       "station": "技术中心",
-      "profit": 765,
+      "profit": 766,
       "hourly": 127,
       "hours": 6,
       "level": null,
@@ -1520,18 +1440,8 @@
     {
       "name": "XRO快速反应瞄准镜",
       "station": "技术中心",
-      "profit": 753,
-      "hourly": 125,
-      "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "影袭导轨枪托",
-      "station": "技术中心",
-      "profit": 633,
-      "hourly": 105,
+      "profit": 747,
+      "hourly": 124,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1540,9 +1450,19 @@
     {
       "name": "平衡握把底座",
       "station": "技术中心",
-      "profit": 736,
-      "hourly": 92,
+      "profit": 689,
+      "hourly": 86,
       "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "影袭导轨枪托",
+      "station": "技术中心",
+      "profit": 428,
+      "hourly": 71,
+      "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1550,19 +1470,19 @@
     {
       "name": "影袭托芯枪托",
       "station": "技术中心",
-      "profit": 495,
-      "hourly": 82,
+      "profit": 381,
+      "hourly": 63,
       "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "ACOG精准六倍镜",
+      "name": "AK-12突击步枪",
       "station": "技术中心",
-      "profit": 363,
-      "hourly": 60,
-      "hours": 6,
+      "profit": 291,
+      "hourly": 12,
+      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1570,9 +1490,19 @@
     {
       "name": "RK-0前握把",
       "station": "技术中心",
-      "profit": 48,
-      "hourly": 12,
+      "profit": 30,
+      "hourly": 7,
       "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "P90冲锋枪",
+      "station": "技术中心",
+      "profit": 17,
+      "hourly": 0,
+      "hours": 48,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1580,8 +1510,18 @@
     {
       "name": "死寂消音器",
       "station": "技术中心",
-      "profit": -46,
-      "hourly": -6,
+      "profit": -66,
+      "hourly": -9,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "堡垒水平补偿器",
+      "station": "技术中心",
+      "profit": -311,
+      "hourly": -44,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -1590,28 +1530,8 @@
     {
       "name": "先进多口径消音器",
       "station": "技术中心",
-      "profit": -271,
-      "hourly": -38,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "AK-12突击步枪",
-      "station": "技术中心",
-      "profit": -1005,
-      "hourly": -41,
-      "hours": 24,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "堡垒水平补偿器",
-      "station": "技术中心",
-      "profit": -303,
-      "hourly": -43,
+      "profit": -382,
+      "hourly": -54,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -1620,19 +1540,9 @@
     {
       "name": "沙暴垂直补偿器",
       "station": "技术中心",
-      "profit": -360,
-      "hourly": -51,
+      "profit": -391,
+      "hourly": -55,
       "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "AKM突击步枪",
-      "station": "技术中心",
-      "profit": -1725,
-      "hourly": -71,
-      "hours": 24,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1640,9 +1550,19 @@
     {
       "name": "M14射手步枪",
       "station": "技术中心",
-      "profit": -2202,
-      "hourly": -73,
+      "profit": -2350,
+      "hourly": -78,
       "hours": 30,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "MRGS镂空枪托",
+      "station": "技术中心",
+      "profit": -530,
+      "hourly": -88,
+      "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1650,19 +1570,9 @@
     {
       "name": "M157火控光学系统",
       "station": "技术中心",
-      "profit": -720,
-      "hourly": -120,
+      "profit": -651,
+      "hourly": -108,
       "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "P90冲锋枪",
-      "station": "技术中心",
-      "profit": -8597,
-      "hourly": -179,
-      "hours": 48,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1670,8 +1580,8 @@
     {
       "name": "UR特种战术枪托",
       "station": "技术中心",
-      "profit": -1317,
-      "hourly": -219,
+      "profit": -1323,
+      "hourly": -220,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1680,8 +1590,8 @@
     {
       "name": "RK3后握把",
       "station": "技术中心",
-      "profit": -2146,
-      "hourly": -268,
+      "profit": -2163,
+      "hourly": -270,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -1690,8 +1600,8 @@
     {
       "name": "侵袭后握把",
       "station": "技术中心",
-      "profit": -2645,
-      "hourly": -330,
+      "profit": -2768,
+      "hourly": -346,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -1700,7 +1610,7 @@
     {
       "name": "416轻型枪托",
       "station": "技术中心",
-      "profit": -2187,
+      "profit": -2189,
       "hourly": -364,
       "hours": 6,
       "level": null,
@@ -1708,10 +1618,20 @@
       "source": "准星工具站"
     },
     {
+      "name": "炽火抑制器",
+      "station": "技术中心",
+      "profit": -2583,
+      "hourly": -369,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": "416稳固枪托",
       "station": "技术中心",
-      "profit": -2274,
-      "hourly": -379,
+      "profit": -2289,
+      "hourly": -381,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1720,8 +1640,8 @@
     {
       "name": "枢机稳固枪托",
       "station": "技术中心",
-      "profit": -2535,
-      "hourly": -422,
+      "profit": -2538,
+      "hourly": -423,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1730,19 +1650,9 @@
     {
       "name": "DBAL-X2紫色激光镭指",
       "station": "技术中心",
-      "profit": -2472,
-      "hourly": -549,
+      "profit": -2613,
+      "hourly": -580,
       "hours": 4.5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "炽火抑制器",
-      "station": "技术中心",
-      "profit": -4030,
-      "hourly": -575,
-      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1750,8 +1660,8 @@
     {
       "name": "侧置战斗红点瞄准镜",
       "station": "技术中心",
-      "profit": -3835,
-      "hourly": -639,
+      "profit": -3748,
+      "hourly": -624,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1760,8 +1670,8 @@
     {
       "name": "侧置XRO快速反应瞄准镜",
       "station": "技术中心",
-      "profit": -3876,
-      "hourly": -646,
+      "profit": -3883,
+      "hourly": -647,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -1770,8 +1680,8 @@
     {
       "name": "竞赛阻手器",
       "station": "技术中心",
-      "profit": -2632,
-      "hourly": -658,
+      "profit": -2624,
+      "hourly": -656,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1780,7 +1690,7 @@
     {
       "name": "侧置微型红点瞄准镜",
       "station": "技术中心",
-      "profit": -4030,
+      "profit": -4026,
       "hourly": -671,
       "hours": 6,
       "level": null,
@@ -1790,8 +1700,8 @@
     {
       "name": "战术垂直握把",
       "station": "技术中心",
-      "profit": -2718,
-      "hourly": -679,
+      "profit": -2729,
+      "hourly": -682,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1800,8 +1710,8 @@
     {
       "name": "斜角阻手器",
       "station": "技术中心",
-      "profit": -2721,
-      "hourly": -680,
+      "profit": -2744,
+      "hourly": -686,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1810,8 +1720,8 @@
     {
       "name": "战术三角握把",
       "station": "技术中心",
-      "profit": -2835,
-      "hourly": -708,
+      "profit": -2773,
+      "hourly": -693,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1820,8 +1730,8 @@
     {
       "name": "CR棱镜阻手器",
       "station": "技术中心",
-      "profit": -2951,
-      "hourly": -737,
+      "profit": -2959,
+      "hourly": -739,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1840,19 +1750,9 @@
     {
       "name": "K1精英斜角握把",
       "station": "技术中心",
-      "profit": -3105,
-      "hourly": -776,
+      "profit": -3087,
+      "hourly": -771,
       "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "MRGS镂空枪托",
-      "station": "技术中心",
-      "profit": -4862,
-      "hourly": -810,
-      "hours": 6,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1860,8 +1760,18 @@
     {
       "name": "幻影垂直握把",
       "station": "技术中心",
-      "profit": -3371,
-      "hourly": -842,
+      "profit": -3427,
+      "hourly": -856,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "相位战斗前握把",
+      "station": "技术中心",
+      "profit": -3713,
+      "hourly": -928,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -1870,19 +1780,9 @@
     {
       "name": "侵掠核心枪托",
       "station": "技术中心",
-      "profit": -5629,
-      "hourly": -938,
+      "profit": -5618,
+      "hourly": -936,
       "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "相位战斗前握把",
-      "station": "技术中心",
-      "profit": -3970,
-      "hourly": -992,
-      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1890,19 +1790,9 @@
     {
       "name": "HAMR组合瞄准镜",
       "station": "技术中心",
-      "profit": -6563,
-      "hourly": -1093,
+      "profit": -5768,
+      "hourly": -961,
       "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "稳固握把底座",
-      "station": "技术中心",
-      "profit": -9011,
-      "hourly": -1126,
-      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1910,9 +1800,19 @@
     {
       "name": "M249轻机枪",
       "station": "技术中心",
-      "profit": -25078,
-      "hourly": -1253,
+      "profit": -21806,
+      "hourly": -1090,
       "hours": 20,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "稳固握把底座",
+      "station": "技术中心",
+      "profit": -9017,
+      "hourly": -1127,
+      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1920,9 +1820,19 @@
     {
       "name": "侦察1.5/5可调瞄准镜",
       "station": "技术中心",
-      "profit": -7569,
-      "hourly": -1261,
+      "profit": -7578,
+      "hourly": -1263,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "黎明三角手电握把",
+      "station": "技术中心",
+      "profit": -5182,
+      "hourly": -1295,
+      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -1930,8 +1840,8 @@
     {
       "name": "PEQ-2红色激光镭指",
       "station": "技术中心",
-      "profit": -6286,
-      "hourly": -1396,
+      "profit": -6420,
+      "hourly": -1426,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -1940,8 +1850,8 @@
     {
       "name": "PERST-7蓝色激光镭指",
       "station": "技术中心",
-      "profit": -6392,
-      "hourly": -1420,
+      "profit": -6479,
+      "hourly": -1439,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -1950,38 +1860,8 @@
     {
       "name": "钛金竞赛制退器",
       "station": "技术中心",
-      "profit": -10431,
-      "hourly": -1490,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "共振二代前握把",
-      "station": "技术中心",
-      "profit": -6660,
-      "hourly": -1665,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "薪火螺旋消焰器",
-      "station": "技术中心",
-      "profit": -12476,
-      "hourly": -1782,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "海神消焰器",
-      "station": "技术中心",
-      "profit": -13320,
-      "hourly": -1902,
+      "profit": -10417,
+      "hourly": -1488,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -1990,9 +1870,29 @@
     {
       "name": "光学狙击8倍瞄准镜",
       "station": "技术中心",
-      "profit": -12260,
-      "hourly": -2043,
+      "profit": -9019,
+      "hourly": -1503,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "共振二代前握把",
+      "station": "技术中心",
+      "profit": -6713,
+      "hourly": -1678,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "薪火螺旋消焰器",
+      "station": "技术中心",
+      "profit": -12457,
+      "hourly": -1779,
+      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2000,9 +1900,19 @@
     {
       "name": "1p-29俄制3倍瞄准镜",
       "station": "技术中心",
-      "profit": -12286,
-      "hourly": -2047,
+      "profit": -11224,
+      "hourly": -1870,
       "hours": 6,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "海神消焰器",
+      "station": "技术中心",
+      "profit": -13285,
+      "hourly": -1897,
+      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2010,8 +1920,8 @@
     {
       "name": "密令斜角握把",
       "station": "技术中心",
-      "profit": -9617,
-      "hourly": -2404,
+      "profit": -9604,
+      "hourly": -2401,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -2020,8 +1930,8 @@
     {
       "name": "蜂网遮光罩",
       "station": "技术中心",
-      "profit": -12010,
-      "hourly": -2668,
+      "profit": -10969,
+      "hourly": -2437,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -2030,19 +1940,19 @@
     {
       "name": "共振人体工程握把",
       "station": "技术中心",
-      "profit": -11721,
-      "hourly": -2930,
+      "profit": -9965,
+      "hourly": -2491,
       "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "黎明三角手电握把",
+      "name": "OLIGHT Baldr Pro R多功能手电",
       "station": "技术中心",
-      "profit": -15206,
-      "hourly": -3801,
-      "hours": 4,
+      "profit": -13563,
+      "hourly": -3014,
+      "hours": 4.5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2050,8 +1960,8 @@
     {
       "name": "6/12神射手变倍狙击镜",
       "station": "技术中心",
-      "profit": -25093,
-      "hourly": -4182,
+      "profit": -18722,
+      "hourly": -3120,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -2060,29 +1970,9 @@
     {
       "name": "先进热融合全息瞄准镜",
       "station": "技术中心",
-      "profit": -36883,
-      "hourly": -6147,
+      "profit": -36939,
+      "hourly": -6156,
       "hours": 6,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "OLIGHT Baldr Pro R多功能手电",
-      "station": "技术中心",
-      "profit": -27920,
-      "hourly": -6204,
-      "hours": 4.5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "伸缩脚架握把",
-      "station": "技术中心",
-      "profit": -32618,
-      "hourly": -8154,
-      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2090,8 +1980,18 @@
     {
       "name": "破晓垂直手电握把",
       "station": "技术中心",
-      "profit": -34239,
-      "hourly": -8559,
+      "profit": -29665,
+      "hourly": -7416,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "伸缩脚架握把",
+      "station": "技术中心",
+      "profit": -32111,
+      "hourly": -8027,
       "hours": 4,
       "level": null,
       "sourceTime": null,
@@ -2100,8 +2000,8 @@
     {
       "name": "OLIGHT Odin S战术手电",
       "station": "技术中心",
-      "profit": -54121,
-      "hourly": -12026,
+      "profit": -53831,
+      "hourly": -11962,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -2110,8 +2010,8 @@
     {
       "name": "先进白热成像战斗瞄准镜",
       "station": "技术中心",
-      "profit": -84961,
-      "hourly": -14160,
+      "profit": -85004,
+      "hourly": -14167,
       "hours": 6,
       "level": null,
       "sourceTime": null,
@@ -2120,8 +2020,8 @@
     {
       "name": "耀斑战术手电",
       "station": "技术中心",
-      "profit": -75157,
-      "hourly": -16701,
+      "profit": -74717,
+      "hourly": -16603,
       "hours": 4.5,
       "level": null,
       "sourceTime": null,
@@ -2130,8 +2030,8 @@
     {
       "name": "4.6x30mm AP SX",
       "station": "工作台",
-      "profit": 260316,
-      "hourly": 32539,
+      "profit": 266485,
+      "hourly": 33310,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2140,8 +2040,8 @@
     {
       "name": "5.45x39mm BT",
       "station": "工作台",
-      "profit": 217279,
-      "hourly": 31039,
+      "profit": 222548,
+      "hourly": 31792,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2150,8 +2050,8 @@
     {
       "name": ".300BLK",
       "station": "工作台",
-      "profit": 247390,
-      "hourly": 30923,
+      "profit": 245801,
+      "hourly": 30725,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2160,8 +2060,8 @@
     {
       "name": "7.62x39mm AP",
       "station": "工作台",
-      "profit": 244068,
-      "hourly": 30508,
+      "profit": 242549,
+      "hourly": 30318,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2170,8 +2070,8 @@
     {
       "name": "5.8x42mm DVC12",
       "station": "工作台",
-      "profit": 230126,
-      "hourly": 28765,
+      "profit": 241635,
+      "hourly": 30204,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2180,8 +2080,8 @@
     {
       "name": "5.45x39mm BS",
       "station": "工作台",
-      "profit": 230056,
-      "hourly": 28757,
+      "profit": 237958,
+      "hourly": 29744,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2190,88 +2090,8 @@
     {
       "name": "5.56x45mm CINDER",
       "station": "工作台",
-      "profit": 197784,
-      "hourly": 28254,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "7.62x51mm M62",
-      "station": "工作台",
-      "profit": 209586,
-      "hourly": 26198,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "5.7 x 28mm HT+",
-      "station": "工作台",
-      "profit": 182802,
-      "hourly": 26114,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "5.8x42mm DBP10",
-      "station": "工作台",
-      "profit": 181445,
-      "hourly": 25920,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".45 ACP Super​",
-      "station": "工作台",
-      "profit": 202868,
-      "hourly": 25358,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".45 ACP AP",
-      "station": "工作台",
-      "profit": 177299,
-      "hourly": 25328,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "5.7x28mm SS193",
-      "station": "工作台",
-      "profit": 173712,
-      "hourly": 24816,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "9x39mm BP",
-      "station": "工作台",
-      "profit": 195875,
-      "hourly": 24484,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "9x39mm SP6",
-      "station": "工作台",
-      "profit": 167053,
-      "hourly": 23864,
+      "profit": 199783,
+      "hourly": 28540,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2280,28 +2100,88 @@
     {
       "name": "5.7x28mm SS190",
       "station": "工作台",
-      "profit": 186477,
-      "hourly": 23309,
+      "profit": 226643,
+      "hourly": 28330,
       "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": ".300BLK",
+      "name": ".45 ACP Super​",
       "station": "工作台",
-      "profit": 159403,
-      "hourly": 22771,
+      "profit": 220242,
+      "hourly": 27530,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.8x42mm DBP10",
+      "station": "工作台",
+      "profit": 189643,
+      "hourly": 27091,
       "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "5.45x39mm SPALL",
+      "name": "7.62x51mm M62",
       "station": "工作台",
-      "profit": 154736,
-      "hourly": 22105,
+      "profit": 216402,
+      "hourly": 27050,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.7 x 28mm HT+",
+      "station": "工作台",
+      "profit": 188319,
+      "hourly": 26902,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".45 ACP AP",
+      "station": "工作台",
+      "profit": 181435,
+      "hourly": 25919,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "9x39mm BP",
+      "station": "工作台",
+      "profit": 202632,
+      "hourly": 25329,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.7x28mm SS193",
+      "station": "工作台",
+      "profit": 176745,
+      "hourly": 25249,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "9x39mm SP6",
+      "station": "工作台",
+      "profit": 175954,
+      "hourly": 25136,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2310,8 +2190,28 @@
     {
       "name": "12 Gauge 龙息弹",
       "station": "工作台",
-      "profit": 153144,
-      "hourly": 21877,
+      "profit": 166015,
+      "hourly": 23716,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".300BLK",
+      "station": "工作台",
+      "profit": 163881,
+      "hourly": 23411,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.45x39mm SPALL",
+      "station": "工作台",
+      "profit": 156880,
+      "hourly": 22411,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2320,8 +2220,8 @@
     {
       "name": "5.56x45mm M995",
       "station": "工作台",
-      "profit": 167783,
-      "hourly": 20972,
+      "profit": 178566,
+      "hourly": 22320,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2330,8 +2230,8 @@
     {
       "name": "7.62x54R LPS",
       "station": "工作台",
-      "profit": 135394,
-      "hourly": 19342,
+      "profit": 140581,
+      "hourly": 20083,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2340,28 +2240,8 @@
     {
       "name": "6.8x51mm FMJ",
       "station": "工作台",
-      "profit": 129776,
-      "hourly": 18539,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "9x19mm PBP",
-      "station": "工作台",
-      "profit": 129499,
-      "hourly": 18499,
-      "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".300 BLK TIV",
-      "station": "工作台",
-      "profit": 126493,
-      "hourly": 18070,
+      "profit": 134673,
+      "hourly": 19239,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2370,8 +2250,18 @@
     {
       "name": "4.6x30mm FMJ SX",
       "station": "工作台",
-      "profit": 126300,
-      "hourly": 18042,
+      "profit": 133626,
+      "hourly": 19089,
+      "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "9x19mm PBP",
+      "station": "工作台",
+      "profit": 133002,
+      "hourly": 19000,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2380,9 +2270,19 @@
     {
       "name": ".300 BLK TTV",
       "station": "工作台",
-      "profit": 134975,
-      "hourly": 16871,
+      "profit": 147130,
+      "hourly": 18391,
       "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".300 BLK TIV",
+      "station": "工作台",
+      "profit": 126347,
+      "hourly": 18049,
+      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2390,8 +2290,8 @@
     {
       "name": "12.7x55mm PD12双头弹",
       "station": "工作台",
-      "profit": 112697,
-      "hourly": 16099,
+      "profit": 125184,
+      "hourly": 17883,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2400,8 +2300,18 @@
     {
       "name": "碳纤维穿甲箭矢",
       "station": "工作台",
-      "profit": 118062,
-      "hourly": 14757,
+      "profit": 131334,
+      "hourly": 16416,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "6.8x51mm Hybrid",
+      "station": "工作台",
+      "profit": 116202,
+      "hourly": 14525,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2410,19 +2320,9 @@
     {
       "name": "7.62x39mm BP",
       "station": "工作台",
-      "profit": 100811,
-      "hourly": 14401,
+      "profit": 101347,
+      "hourly": 14478,
       "hours": 7,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "6.8x51mm Hybrid",
-      "station": "工作台",
-      "profit": 109298,
-      "hourly": 13662,
-      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2430,8 +2330,8 @@
     {
       "name": "5.56x45mm M855A1",
       "station": "工作台",
-      "profit": 93340,
-      "hourly": 13334,
+      "profit": 93717,
+      "hourly": 13388,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2440,19 +2340,9 @@
     {
       "name": "7.62x54R BT",
       "station": "工作台",
-      "profit": 95998,
-      "hourly": 11999,
+      "profit": 92848,
+      "hourly": 11606,
       "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "9x39mm SP5",
-      "station": "工作台",
-      "profit": 49570,
-      "hourly": 9914,
-      "hours": 5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2460,8 +2350,8 @@
     {
       "name": "4.6x30mm Subsonic SX",
       "station": "工作台",
-      "profit": 48740,
-      "hourly": 9748,
+      "profit": 52091,
+      "hourly": 10418,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2470,8 +2360,18 @@
     {
       "name": "12 Gauge 箭形弹",
       "station": "工作台",
-      "profit": 48622,
-      "hourly": 9724,
+      "profit": 51800,
+      "hourly": 10360,
+      "hours": 5,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "9x39mm SP5",
+      "station": "工作台",
+      "profit": 47138,
+      "hourly": 9427,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2480,8 +2380,38 @@
     {
       "name": "5.7x28mm L191",
       "station": "工作台",
-      "profit": 46154,
-      "hourly": 9230,
+      "profit": 46937,
+      "hourly": 9387,
+      "hours": 5,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "7.62 x 51mm LS",
+      "station": "工作台",
+      "profit": 74490,
+      "hourly": 9311,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.8x42mm DVP88",
+      "station": "工作台",
+      "profit": 46396,
+      "hourly": 9279,
+      "hours": 5,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "5.56x45mm M855",
+      "station": "工作台",
+      "profit": 45469,
+      "hourly": 9093,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2490,18 +2420,8 @@
     {
       "name": "7.62x39mm PS",
       "station": "工作台",
-      "profit": 45776,
-      "hourly": 9155,
-      "hours": 5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "5.8x42mm DVP88",
-      "station": "工作台",
-      "profit": 45136,
-      "hourly": 9027,
+      "profit": 45463,
+      "hourly": 9092,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2518,31 +2438,11 @@
       "source": "准星工具站"
     },
     {
-      "name": "5.56x45mm M855",
-      "station": "工作台",
-      "profit": 42963,
-      "hourly": 8592,
-      "hours": 5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "12 Gauge独头 FTX",
       "station": "工作台",
-      "profit": 40399,
-      "hourly": 8079,
+      "profit": 40027,
+      "hourly": 8005,
       "hours": 5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "7.62 x 51mm LS",
-      "station": "工作台",
-      "profit": 63364,
-      "hourly": 7920,
-      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2550,8 +2450,8 @@
     {
       "name": "45-70 Govt FMJ",
       "station": "工作台",
-      "profit": 50748,
-      "hourly": 7249,
+      "profit": 55302,
+      "hourly": 7900,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2560,8 +2460,8 @@
     {
       "name": ".357 Magnum JHP",
       "station": "工作台",
-      "profit": 34971,
-      "hourly": 6994,
+      "profit": 34783,
+      "hourly": 6956,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2570,8 +2470,8 @@
     {
       "name": "7.62x54R T46M",
       "station": "工作台",
-      "profit": 34026,
-      "hourly": 6805,
+      "profit": 33624,
+      "hourly": 6724,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2580,19 +2480,9 @@
     {
       "name": ".50 AE JHP",
       "station": "工作台",
-      "profit": 32757,
-      "hourly": 6551,
+      "profit": 32452,
+      "hourly": 6490,
       "hours": 5,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "9x19mm RIP",
-      "station": "工作台",
-      "profit": 72573,
-      "hourly": 4838,
-      "hours": 15,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2600,9 +2490,19 @@
     {
       "name": "7.62x51mm M80",
       "station": "工作台",
-      "profit": 33602,
-      "hourly": 4800,
+      "profit": 38320,
+      "hourly": 5474,
       "hours": 7,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "9x19mm RIP",
+      "station": "工作台",
+      "profit": 72051,
+      "hourly": 4803,
+      "hours": 15,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2618,20 +2518,20 @@
       "source": "准星工具站"
     },
     {
-      "name": ".45 ACP FMJ",
+      "name": ".357 Magnum 9号霰射\"鼠弹\"",
       "station": "工作台",
-      "profit": 18474,
-      "hourly": 3694,
+      "profit": 18477,
+      "hourly": 3695,
       "hours": 5,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": ".357 Magnum 9号霰射\"鼠弹\"",
+      "name": ".45 ACP FMJ",
       "station": "工作台",
-      "profit": 18008,
-      "hourly": 3601,
+      "profit": 18321,
+      "hourly": 3664,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2640,7 +2540,7 @@
     {
       "name": "9x19mm AP6.3",
       "station": "工作台",
-      "profit": 17693,
+      "profit": 17691,
       "hourly": 3538,
       "hours": 5,
       "level": null,
@@ -2650,19 +2550,9 @@
     {
       "name": "5.7x28mm R37.F",
       "station": "工作台",
-      "profit": 51325,
-      "hourly": 3421,
+      "profit": 51717,
+      "hourly": 3447,
       "hours": 15,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "碳纤维刺骨箭矢",
-      "station": "工作台",
-      "profit": 19218,
-      "hourly": 2745,
-      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2670,9 +2560,19 @@
     {
       "name": "5.45x39mm PS",
       "station": "工作台",
-      "profit": 12969,
-      "hourly": 2593,
+      "profit": 17011,
+      "hourly": 3402,
       "hours": 5,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "碳纤维刺骨箭矢",
+      "station": "工作台",
+      "profit": 16710,
+      "hourly": 2387,
+      "hours": 7,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2680,8 +2580,8 @@
     {
       "name": ".300BLK",
       "station": "工作台",
-      "profit": 11945,
-      "hourly": 2389,
+      "profit": 10982,
+      "hourly": 2196,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2690,8 +2590,8 @@
     {
       "name": "12.7x55mm PS12",
       "station": "工作台",
-      "profit": 10542,
-      "hourly": 1506,
+      "profit": 10988,
+      "hourly": 1569,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2700,8 +2600,8 @@
     {
       "name": "玻纤柳叶箭矢",
       "station": "工作台",
-      "profit": 6316,
-      "hourly": 1263,
+      "profit": 7817,
+      "hourly": 1563,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2710,9 +2610,19 @@
     {
       "name": "12.7x55mm PS12A",
       "station": "工作台",
-      "profit": 624,
-      "hourly": 124,
+      "profit": 74,
+      "hourly": 14,
       "hours": 5,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": ".338 Lap Mag AP",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2748,26 +2658,6 @@
       "source": "准星工具站"
     },
     {
-      "name": ".338 Lap Mag AP",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": ".50 BMG M10 RAZOR",
-      "station": "工作台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 4,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
       "name": "7.62x54R SNB",
       "station": "工作台",
       "profit": 0,
@@ -2788,10 +2678,20 @@
       "source": "准星工具站"
     },
     {
+      "name": ".50 BMG M10 RAZOR",
+      "station": "工作台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 4,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": "12 Gauge独头 AP-20",
       "station": "工作台",
-      "profit": -15169,
-      "hourly": -2167,
+      "profit": -12727,
+      "hourly": -1818,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2800,8 +2700,8 @@
     {
       "name": ".50 AE FMJ",
       "station": "工作台",
-      "profit": -22154,
-      "hourly": -3164,
+      "profit": -18545,
+      "hourly": -2649,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2810,8 +2710,8 @@
     {
       "name": ".357 Magnum FMJ",
       "station": "工作台",
-      "profit": -42577,
-      "hourly": -6082,
+      "profit": -42181,
+      "hourly": -6025,
       "hours": 7,
       "level": null,
       "sourceTime": null,
@@ -2820,8 +2720,8 @@
     {
       "name": "45-70 Govt RN",
       "station": "工作台",
-      "profit": -31421,
-      "hourly": -6284,
+      "profit": -33655,
+      "hourly": -6731,
       "hours": 5,
       "level": null,
       "sourceTime": null,
@@ -2830,8 +2730,8 @@
     {
       "name": "45-70 Govt FTX",
       "station": "工作台",
-      "profit": -91086,
-      "hourly": -11385,
+      "profit": -89808,
+      "hourly": -11226,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2840,8 +2740,8 @@
     {
       "name": "12.7x55mm PS12B",
       "station": "工作台",
-      "profit": -120938,
-      "hourly": -15117,
+      "profit": -121741,
+      "hourly": -15217,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2850,48 +2750,8 @@
     {
       "name": "9x19mm 7N30",
       "station": "工作台",
-      "profit": -576511,
-      "hourly": -72063,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "战地医疗箱",
-      "station": "制药台",
-      "profit": 37957,
-      "hourly": 4744,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "M2肌肉注射剂",
-      "station": "制药台",
-      "profit": 37665,
-      "hourly": 4708,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "精密护甲维修包",
-      "station": "制药台",
-      "profit": 35557,
-      "hourly": 4444,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "感知强化剂",
-      "station": "制药台",
-      "profit": 35231,
-      "hourly": 4403,
+      "profit": -564774,
+      "hourly": -70596,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2900,18 +2760,18 @@
     {
       "name": "高级头盔维修组合",
       "station": "制药台",
-      "profit": 31907,
-      "hourly": 3988,
+      "profit": 46820,
+      "hourly": 5852,
       "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "体能强化剂",
+      "name": "精密护甲维修包",
       "station": "制药台",
-      "profit": 31223,
-      "hourly": 3902,
+      "profit": 46616,
+      "hourly": 5827,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2920,8 +2780,58 @@
     {
       "name": "高级护甲维修组合",
       "station": "制药台",
-      "profit": 29117,
-      "hourly": 3639,
+      "profit": 44269,
+      "hourly": 5533,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "M2肌肉注射剂",
+      "station": "制药台",
+      "profit": 38679,
+      "hourly": 4834,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "战地医疗箱",
+      "station": "制药台",
+      "profit": 38549,
+      "hourly": 4818,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "感知强化剂",
+      "station": "制药台",
+      "profit": 35269,
+      "hourly": 4408,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "体能强化剂",
+      "station": "制药台",
+      "profit": 30974,
+      "hourly": 3871,
+      "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "精密头盔维修包",
+      "station": "制药台",
+      "profit": 19759,
+      "hourly": 2469,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -2930,19 +2840,9 @@
     {
       "name": "OE2战斗兴奋剂",
       "station": "制药台",
-      "profit": 22507,
-      "hourly": 1875,
+      "profit": 23020,
+      "hourly": 1918,
       "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "精密头盔维修包",
-      "station": "制药台",
-      "profit": 12703,
-      "hourly": 1587,
-      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -2950,8 +2850,8 @@
     {
       "name": "体能激活针",
       "station": "制药台",
-      "profit": 13887,
-      "hourly": 1157,
+      "profit": 15120,
+      "hourly": 1260,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -2960,8 +2860,8 @@
     {
       "name": "感知激活针",
       "station": "制药台",
-      "profit": 10545,
-      "hourly": 878,
+      "profit": 10950,
+      "hourly": 912,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -2970,8 +2870,8 @@
     {
       "name": "M1肌肉强化针",
       "station": "制药台",
-      "profit": 7531,
-      "hourly": 627,
+      "profit": 7882,
+      "hourly": 656,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -2980,8 +2880,8 @@
     {
       "name": "去甲肾上腺素",
       "station": "制药台",
-      "profit": 5567,
-      "hourly": 463,
+      "profit": 5768,
+      "hourly": 480,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -2990,8 +2890,8 @@
     {
       "name": "精英防弹背心",
       "station": "防具台",
-      "profit": 187818,
-      "hourly": 23477,
+      "profit": 190388,
+      "hourly": 23798,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3000,8 +2900,8 @@
     {
       "name": "H09 防暴头盔",
       "station": "防具台",
-      "profit": 169868,
-      "hourly": 21233,
+      "profit": 173152,
+      "hourly": 21644,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3010,8 +2910,8 @@
     {
       "name": "重型突击背心",
       "station": "防具台",
-      "profit": 168447,
-      "hourly": 21055,
+      "profit": 172536,
+      "hourly": 21567,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3020,8 +2920,8 @@
     {
       "name": "FS复合防弹衣",
       "station": "防具台",
-      "profit": 146468,
-      "hourly": 18308,
+      "profit": 148962,
+      "hourly": 18620,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3030,8 +2930,8 @@
     {
       "name": "Hvk-2防弹衣",
       "station": "防具台",
-      "profit": 146071,
-      "hourly": 18258,
+      "profit": 148842,
+      "hourly": 18605,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3040,8 +2940,8 @@
     {
       "name": "GT5野战背包",
       "station": "防具台",
-      "profit": 112311,
-      "hourly": 14038,
+      "profit": 126881,
+      "hourly": 15860,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3050,8 +2950,8 @@
     {
       "name": "DICH-1战术头盔",
       "station": "防具台",
-      "profit": 102627,
-      "hourly": 12828,
+      "profit": 115328,
+      "hourly": 14416,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3060,8 +2960,8 @@
     {
       "name": "GN 重型头盔",
       "station": "防具台",
-      "profit": 78182,
-      "hourly": 9772,
+      "profit": 98589,
+      "hourly": 12323,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3070,8 +2970,8 @@
     {
       "name": "GIR野战胸挂",
       "station": "防具台",
-      "profit": 71796,
-      "hourly": 8974,
+      "profit": 73330,
+      "hourly": 9166,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3080,8 +2980,8 @@
     {
       "name": "GN 久战重型夜视头盔",
       "station": "防具台",
-      "profit": 111147,
-      "hourly": 7939,
+      "profit": 119166,
+      "hourly": 8511,
       "hours": 14,
       "level": null,
       "sourceTime": null,
@@ -3090,29 +2990,9 @@
     {
       "name": "DRC先进侦察胸挂",
       "station": "防具台",
-      "profit": 59605,
-      "hourly": 7450,
+      "profit": 61714,
+      "hourly": 7714,
       "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "MK-2战术背心",
-      "station": "防具台",
-      "profit": 95875,
-      "hourly": 5992,
-      "hours": 16,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "DICH 训练头盔",
-      "station": "防具台",
-      "profit": 83734,
-      "hourly": 5981,
-      "hours": 14,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -3120,9 +3000,29 @@
     {
       "name": "D3战术登山包",
       "station": "防具台",
-      "profit": 47400,
-      "hourly": 5925,
+      "profit": 54847,
+      "hourly": 6855,
       "hours": 8,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "DICH 训练头盔",
+      "station": "防具台",
+      "profit": 87535,
+      "hourly": 6252,
+      "hours": 14,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "MK-2战术背心",
+      "station": "防具台",
+      "profit": 98519,
+      "hourly": 6157,
+      "hours": 16,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -3130,8 +3030,8 @@
     {
       "name": "Mask-1铁壁头盔",
       "station": "防具台",
-      "profit": 45648,
-      "hourly": 5706,
+      "profit": 47277,
+      "hourly": 5909,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3140,9 +3040,19 @@
     {
       "name": "DT-AVS防弹衣",
       "station": "防具台",
-      "profit": 78081,
-      "hourly": 4880,
+      "profit": 80392,
+      "hourly": 5024,
       "hours": 16,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "HLS-2重型背包",
+      "station": "防具台",
+      "profit": 39608,
+      "hourly": 4951,
+      "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -3150,8 +3060,8 @@
     {
       "name": "GT1 战术头盔",
       "station": "防具台",
-      "profit": 64363,
-      "hourly": 4597,
+      "profit": 66922,
+      "hourly": 4780,
       "hours": 14,
       "level": null,
       "sourceTime": null,
@@ -3160,8 +3070,8 @@
     {
       "name": "突击手防弹背心",
       "station": "防具台",
-      "profit": 71348,
-      "hourly": 4459,
+      "profit": 75582,
+      "hourly": 4723,
       "hours": 16,
       "level": null,
       "sourceTime": null,
@@ -3170,18 +3080,8 @@
     {
       "name": "突击者战术背心",
       "station": "防具台",
-      "profit": 35302,
-      "hourly": 4412,
-      "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "HLS-2重型背包",
-      "station": "防具台",
-      "profit": 32579,
-      "hourly": 4072,
+      "profit": 36927,
+      "hourly": 4615,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3190,8 +3090,8 @@
     {
       "name": "HMP特勤防弹衣",
       "station": "防具台",
-      "profit": 60207,
-      "hourly": 3762,
+      "profit": 61884,
+      "hourly": 3867,
       "hours": 16,
       "level": null,
       "sourceTime": null,
@@ -3200,19 +3100,9 @@
     {
       "name": "MHS 战术头盔",
       "station": "防具台",
-      "profit": 49951,
-      "hourly": 3567,
+      "profit": 51306,
+      "hourly": 3664,
       "hours": 14,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "GT1户外登山包",
-      "station": "防具台",
-      "profit": 31361,
-      "hourly": 2613,
-      "hours": 12,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
@@ -3220,18 +3110,18 @@
     {
       "name": "D2战术登山包",
       "station": "防具台",
-      "profit": 30354,
-      "hourly": 2529,
+      "profit": 33025,
+      "hourly": 2752,
       "hours": 12,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "穿山甲通用战术包",
+      "name": "GT1户外登山包",
       "station": "防具台",
-      "profit": 28181,
-      "hourly": 2348,
+      "profit": 31880,
+      "hourly": 2656,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -3240,18 +3130,18 @@
     {
       "name": "ALS背负系统",
       "station": "防具台",
-      "profit": 14286,
-      "hourly": 1785,
+      "profit": 20283,
+      "hourly": 2535,
       "hours": 8,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
     },
     {
-      "name": "MAP侦察背包",
+      "name": "穿山甲通用战术包",
       "station": "防具台",
-      "profit": 12980,
-      "hourly": 1081,
+      "profit": 29550,
+      "hourly": 2462,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -3260,8 +3150,18 @@
     {
       "name": "野战徒步背包",
       "station": "防具台",
-      "profit": 12401,
-      "hourly": 1033,
+      "profit": 16557,
+      "hourly": 1379,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "MAP侦察背包",
+      "station": "防具台",
+      "profit": 13571,
+      "hourly": 1130,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -3270,8 +3170,8 @@
     {
       "name": "强袭战术背心",
       "station": "防具台",
-      "profit": 6132,
-      "hourly": 766,
+      "profit": 6975,
+      "hourly": 871,
       "hours": 8,
       "level": null,
       "sourceTime": null,
@@ -3280,7 +3180,7 @@
     {
       "name": "D6 战术头盔",
       "station": "防具台",
-      "profit": 696,
+      "profit": 689,
       "hourly": 49,
       "hours": 14,
       "level": null,
@@ -3289,26 +3189,6 @@
     },
     {
       "name": "GT5 指挥官头盔",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "特里克MAS2.0装甲",
-      "station": "防具台",
-      "profit": 0,
-      "hourly": 0,
-      "hours": 12,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "泰坦防弹装甲",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3328,7 +3208,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "DICH-9重型头盔",
+      "name": "泰坦防弹装甲",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3338,7 +3218,7 @@
       "source": "准星工具站"
     },
     {
-      "name": "H70 夜视精英头盔",
+      "name": "DICH-9重型头盔",
       "station": "防具台",
       "profit": 0,
       "hourly": 0,
@@ -3368,10 +3248,30 @@
       "source": "准星工具站"
     },
     {
+      "name": "H70 夜视精英头盔",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "特里克MAS2.0装甲",
+      "station": "防具台",
+      "profit": 0,
+      "hourly": 0,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
       "name": "飓风战术胸挂",
       "station": "防具台",
-      "profit": -72412,
-      "hourly": -6034,
+      "profit": -60482,
+      "hourly": -5040,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -3380,8 +3280,18 @@
     {
       "name": "黑鹰野战胸挂",
       "station": "防具台",
-      "profit": -84858,
-      "hourly": -7071,
+      "profit": -73261,
+      "hourly": -6105,
+      "hours": 12,
+      "level": null,
+      "sourceTime": null,
+      "source": "准星工具站"
+    },
+    {
+      "name": "DAR突击手胸挂",
+      "station": "防具台",
+      "profit": -112084,
+      "hourly": -9340,
       "hours": 12,
       "level": null,
       "sourceTime": null,
@@ -3390,19 +3300,9 @@
     {
       "name": "GN 重型夜视头盔",
       "station": "防具台",
-      "profit": -82581,
-      "hourly": -10322,
+      "profit": -79805,
+      "hourly": -9975,
       "hours": 8,
-      "level": null,
-      "sourceTime": null,
-      "source": "准星工具站"
-    },
-    {
-      "name": "DAR突击手胸挂",
-      "station": "防具台",
-      "profit": -129768,
-      "hourly": -10814,
-      "hours": 12,
       "level": null,
       "sourceTime": null,
       "source": "准星工具站"
